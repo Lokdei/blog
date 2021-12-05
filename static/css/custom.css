@@ -14,3 +14,9 @@
 .box-simple {
     min-height: 230px;
 }
+
+#footer {
+    padding: 0;
+    padding: 24px 0;
+    color: #999999;
+}
