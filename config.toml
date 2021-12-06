@@ -15,7 +15,7 @@ disqusShortname = ""
 googleAnalytics = ""
 
 # number of words of summarized post content (default 70)
-summaryLength = 70
+summaryLength = 40
 
 # Define the number of posts per page
 paginate = 10
