@@ -1,5 +1,5 @@
 # Configure URL. 
-baseurl = 'https://github.com/lokdei/lokdei'
+baseurl = 'https://lokdei.github.io/'
 
 title = 'Gezond Geldbeheer'
 theme = "hugo-universal-theme" 
