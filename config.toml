@@ -146,7 +146,7 @@ paginate = 10
     # All carousel items are defined in their own files. You can find example items
     # at 'exampleSite/data/carousel'.
     # For more informtion take a look at the README.
-    enable = false
+    enable = true
     auto_play = true
     slide_speed = 2000
     pagination_speed = 1000
