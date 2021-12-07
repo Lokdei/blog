@@ -1,7 +1,6 @@
 ---
-title: "My First Post"
+title: "Lorem Post"
 date: 2021-12-02T21:14:27+01:00
-draft: true
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet sollicitudin neque. Integer fringilla feugiat finibus. Phasellus fringilla urna sed augue vestibulum eleifend. Proin tempor sagittis ullamcorper. Mauris massa nulla, elementum at nunc vel, ultrices ultrices turpis. Sed sagittis nisl vitae ultricies vehicula. Vivamus ut dui ac metus blandit malesuada. Phasellus lorem orci, fringilla ac faucibus ac, pulvinar ut elit. Pellentesque convallis sit amet enim fermentum fermentum. Nunc in elit vel magna fermentum euismod eget sit amet odio. Pellentesque eget sapien vitae est elementum vulputate a eu mi. Duis sollicitudin lacinia leo, sit amet lobortis orci vehicula ut. Integer volutpat eros purus, a volutpat purus maximus nec. Nunc ac libero ac mauris viverra sagittis at mollis quam. Nullam semper ligula nec augue sollicitudin fringilla. Donec rutrum sapien in tempor feugiat.
