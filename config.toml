@@ -130,7 +130,8 @@ paginate = 10
 [params.widgets]
     categories = true
     tags = false
-    search = true
+    # This navigates to google search, not a site lookup
+    search = false
 
 [params.carouselCustomers]
     items = 6
