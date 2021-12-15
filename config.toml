@@ -23,8 +23,8 @@ paginate = 10
 [menu]
 
 [[menu.main]]
-    name       = "Start"
-    identifier = "menu.start"
+    name       = "Home"
+    identifier = "menu.home"
     url        = "/"
     weight     = 1
 
@@ -50,7 +50,7 @@ paginate = 10
 [params]
     viewMorePostLink = "/blog/"
     author = "DevCows"
-    mainSections = ["blog"]
+    mainSections = ["blog", "rule1", "strategie"]
 
     # HTML Meta Tags
     defaultKeywords = ["Investeren", "Advies", "Beleggen", "België", "Rule #1"]
@@ -117,7 +117,9 @@ paginate = 10
     logo_small = "img/logo-small.png"
 
 [permalinks]
-    blog = "/blog/:year/:month/:day/:filename/"
+    rule1 = "/rule1/:filename/"
+    blog = "/blog/:filename/"
+    strategie = "/strategie/:filename/"
 
 # Enable or disable top bar with social icons
 [params.topbar]
