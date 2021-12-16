@@ -41,16 +41,22 @@ paginate = 10
     weight     = 3
 
 [[menu.main]]
+    name       = "Rule 1"
+    identifier = "menu.ruleone"
+    url        = "/rule1/"
+    weight     = 4
+
+[[menu.main]]
     identifier = "contact"
     name       = "Contact"
     url        = "/contact/"
-    weight     = 4
+    weight     = 5
 
 
 [params]
     viewMorePostLink = "/blog/"
     author = "DevCows"
-    mainSections = ["blog", "rule1", "strategie"]
+    mainSections = ["blog"]
 
     # HTML Meta Tags
     defaultKeywords = ["Investeren", "Advies", "Beleggen", "België", "Rule #1"]
@@ -117,9 +123,7 @@ paginate = 10
     logo_small = "img/logo-small.png"
 
 [permalinks]
-    rule1 = "/rule1/:filename/"
     blog = "/blog/:filename/"
-    strategie = "/strategie/:filename/"
 
 # Enable or disable top bar with social icons
 [params.topbar]
@@ -198,3 +202,8 @@ paginate = 10
   category = "categories"
   tag = "tags"
   author = "authors"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
