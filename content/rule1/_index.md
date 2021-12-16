@@ -1,8 +1,7 @@
-+++
-title = "Rule 1"
-description = "Rule 1"
-keywords = ["Strategie","Rule1"]
-+++
+---
+title: "Rule 1"
+date: 2021-12-10T13:00:06+01:00
+---
 
 # Rule 1
 

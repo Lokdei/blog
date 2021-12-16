@@ -1,8 +1,10 @@
 ---
-title: "Strategie"
+title: "Index ETF"
 date: 2021-12-10T13:01:19+01:00
-draft: true
 banner: "img/content/strategie/index-etf/banner.jpg"
+categories: 
+- "ETF"
+- "Index"
 ---
 
 <span class = "image-attribution">

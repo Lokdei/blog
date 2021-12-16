@@ -1,8 +1,9 @@
 ---
 title: "De Actieve Belegger"
 date: 2021-12-08T17:21:07+01:00
-draft: true
 banner: "img/content/blog/de-actieve-belegger/banner.jpg"
+categories: 
+- "Beginnen met investeren"
 ---
 
 <span class = "image-attribution">

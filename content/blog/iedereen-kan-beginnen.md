@@ -1,8 +1,9 @@
 ---
 title: "Iedereen Kan Beginnen"
 date: 2021-12-08T17:19:18+01:00
-draft: true
 banner: "img/content/blog/iedereen-kan-beginnen/banner.jpg"
+categories: 
+- "Beginnen met investeren"
 ---
 
 <span class = "image-attribution">

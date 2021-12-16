@@ -1,16 +1,14 @@
 ---
 title: "Meaning"
-url: /rule1/meaning/
 date: 2021-12-10T13:00:32+01:00
-description: "Rule 1"
-keywords: ["Strategie","Rule1"]
-tags: [""]
-categories: ["Rule #1"]
+categories: ["Rule 1"]
 banner: "img/content/rule1/meaning/banner.jpg"
+categories: 
+- "Rule 1"
 ---
 
 <span class = "image-attribution">
-Foto van <a href="https://www.vecteezy.com/vector-art/1967179-toddlers-hugging-each-other"> Xolo Piks op Vecteezy.com
+Foto van <a href="https://www.vecteezy.com/vector-art/1967179-toddlers-hugging-each-other"> Xolo Piks op Vecteezy.com</a>
 </span>
 
 ```

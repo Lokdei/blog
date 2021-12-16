@@ -1,8 +1,9 @@
 ---
 title: "Hoeveel Tijd Heb Ik Nodig"
 date: 2021-12-08T17:20:01+01:00
-draft: true
 banner: "img/content/blog/hoeveel-tijd-heb-ik-nodig/banner.jpg"
+categories: 
+- "Beginnen met investeren"
 ---
 
 <span class = "image-attribution">

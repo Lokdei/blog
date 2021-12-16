@@ -2,11 +2,6 @@
 title: "Strategie"
 description: "Strategie"
 date: 2021-12-10T13:01:19+01:00
-keywords: 
-- "Strategie"
-- "Pensioensparen"
-- "Index"
-- "Rule1"
 ---
 
 # Strategie
@@ -90,3 +85,5 @@ Als je met 1000 euro start, dan heb je na 30 jaar een enorm verschil.
 | Verloren winst aan beheerskosten                          | € 1800   | € 15 000 |
 
 Sommige mensen geloven dat de hoge kosten betekenen dat de financiële beheerders beter werk zullen leveren. Maar zoals we zien zijn het eerder de financiele managers die met een yacht naar hun werk varen dan hun klanten. Een index kopen is dus wenselijk als we het vergelijken met een traditioneel fonds met een hoge kostenverhouding.
+
+
