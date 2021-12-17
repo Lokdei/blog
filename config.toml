@@ -90,8 +90,8 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io endpoint url
-    formspree_action = "https://formspree.io/sample/of/endpoint"
-    contact_form_ajax = false
+    formspree_action = "https://formspree.io/f/xvololov"
+    contact_form_ajax = true
 
     # Formspree form supports Google reCAPTCHA Key (type v2).
     # If you use this feature, you should enable reCAPTCHA feature in the Formspree dashboard.
@@ -111,7 +111,7 @@ paginate = 10
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
     about_us = "<p>Ik ben geen professioneel adviseur en accepteer dan ook geen verantwoordelijkheid voor enige schade geleden door opvolgen van advies of navolgen van informatie op deze site. De informatie op deze site is louter informatief en educatief bedoeld.</p>"
-    copyright = "Copyright (c) 2021 © Geldbeheer, alle rechten voorbehouden"
+    copyright = "Copyright 2021 Geldbeheer, alle rechten voorbehouden"
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
