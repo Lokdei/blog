@@ -56,7 +56,7 @@ paginate = 10
 [params]
     viewMorePostLink = "/blog/"
     author = "DevCows"
-    mainSections = ["blog"]
+    mainSections = ["blog", "rule1", "strategie"]
 
     # HTML Meta Tags
     defaultKeywords = ["Investeren", "Advies", "Beleggen", "België", "Rule #1"]
