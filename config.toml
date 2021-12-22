@@ -60,7 +60,7 @@ paginate = 10
 
     # HTML Meta Tags
     defaultKeywords = ["Investeren", "Advies", "Beleggen", "België", "Rule #1"]
-    defaultDescription = "Gezond geldbeheer op maat van belgen."
+    defaultDescription = "Gezond geldbeheer op maat van Belgen."
 
     # Social media
     facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
