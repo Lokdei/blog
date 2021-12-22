@@ -1,15 +1,16 @@
 ---
 title: "Meaning"
 date: 2021-12-10T13:00:32+01:00
-categories: ["Rule 1"]
+authors: 
+- 'Bert'
 banner: "img/content/rule1/meaning/banner.jpg"
+banner_author: 'Xolo Piks'
+banner_site_url: 'https://www.vecteezy.com/vector-art/1967179-toddlers-hugging-each-other'
+banner_site_title: 'Vecteezy.com'
 categories: 
 - "Rule 1"
 ---
 
-<span class = "image-attribution">
-Foto van <a href="https://www.vecteezy.com/vector-art/1967179-toddlers-hugging-each-other"> Xolo Piks op Vecteezy.com</a>
-</span>
 
 ```
 Falen kun je op verschillende manieren, terwijl slagen enkel mogelijk is op 1 manier. - Aristotle, Ethica Nicomachea

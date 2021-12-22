@@ -1,7 +1,10 @@
 ---
 title: "Brokers"
 date: 2021-12-08T17:20:29+01:00
+authors: 
+- 'Bert'
 banner: "img/content/blog/brokers/banner.jpg"
+
 categories: 
 - "Beginnen met investeren"
 ---
