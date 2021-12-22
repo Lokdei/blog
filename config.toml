@@ -193,10 +193,10 @@ paginate = 10
     enable = true
     title = "Waar staan we voor"
     subtitle = "Gezond Geldbeheer is een site specifiek voor de Belgische belegger, jong of oud, die zijn eigen financiële onafhankelijkheid plant. Er zijn een groot aantal anderstalige boeken en websites die je hierbij willen helpen. Deze zijn echter niet allemaal relevant sinds wij onze eigen unieke fiscale wetten moeten volgen. Ik schrijf dan ook uit de Belgische invalshoek over hoe we samen onze rijkdom kunnen behouden en vergroten. <br>Hieronder kun je alvast even spieken naar de laatst gedeelde artikels."
-    hide_summary = false
+    hide_summary = true
 
 [params.footer.recent_posts]
-    enable = true
+    enable = false
 
 [taxonomies]
   category = "categories"
