@@ -11,7 +11,7 @@ categories:
 - "Beginnen met investeren"
 ---
 
-Het was toen ik studeerde dat ik voor het eerst hoorde dat geld maken een vaardigheid is, zoals het spelen van basket of piano, die je kunt verbeteren door er meer tijd in te steken. Dit klikte direct met mij, ik denk dat mensen geen concert zouden willen volgen van iemand met slechts 1 les piano onder de knie. Maar als een concert geven je uitendelijke doel is, kun je wel duidelijke doelstellingen zetten om daar te geraken. Kun je zoiets ook doen met geldbeheer zodat iedereen er goed in kan worden? 
+Het was toen ik studeerde dat ik voor het eerst hoorde dat geld maken een vaardigheid is, zoals het spelen van basket of piano, die je kunt verbeteren door er meer tijd in te steken. Dit klikte direct met mij, ik denk dat mensen geen concert zouden willen volgen van iemand met slechts 1 les piano onder de knie. Maar als een concert geven je uiteindelijke doel is, kun je wel duidelijke doelstellingen zetten om daar te geraken. Kun je zoiets ook doen met geldbeheer zodat iedereen er goed in kan worden? 
 
 Welke lessen moet je leren om je geld niet te verliezen? Niet in de aandelenmarkt, niet aan de overheid, en niet aan de bank? Iedereen in de financiele sector aast wel op jouw centen! En welke kennis moet je opdoen om zo veilig mogelijk jouw spaarvarkentje te verdikken? 
 
