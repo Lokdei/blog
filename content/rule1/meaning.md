@@ -12,9 +12,8 @@ categories:
 ---
 
 
-```
-Falen kun je op verschillende manieren, terwijl slagen enkel mogelijk is op 1 manier. - Aristotle, Ethica Nicomachea
-```
+> Falen kun je op verschillende manieren, terwijl slagen enkel mogelijk is op 1 manier.   
+> Aristotle, Ethica Nicomachea
 
 De eerste vraag, welke betekenis heeft het bedrijf voor jou, brengt 2 andere vragen met zich mee:
 
