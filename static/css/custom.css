@@ -140,3 +140,10 @@ Light looks better on phones & tablets
   margin-bottom: 20px;
   padding: 10px 0;
 }
+
+#listed-posts .img-responsive {
+  max-height: 345px;
+  min-width: 100%;
+  object-fit: contain;
+  margin-bottom: 8px;
+}
