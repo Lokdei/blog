@@ -107,11 +107,15 @@ De marktkapitalisatie wordt berekend door het aantal uitstaande aandelen van een
 
 # Oppassen
 
-Als je deze begrippen tegenkomt moet je opletten dat je niet voor een loopje genomen wordt.
+Als je deze begrippen tegenkomt moet je opletten dat je niet voor een bedot wordt.
 
 ### Covered Calls
 
-s
+Covered Calls zijn [Opties]({{< relref "#opties" >}}) opties die sommige brokers, zoals de Amerikaanse Robinhood, promoten.
+
+Aangezien de potentiële winst op een aandeel onbeperkt is, terwijl geen enkel verlies groter kan zijn dan 100%, is de enige persoon die je zal verrijken door covered calls te aanvaarden je broker. Je hebt een bodem onder je verlies gelegd, maar je hebt ook een laag plafond boven je winst gebouwd.
+
+Voor individuele beleggers is het indekken van de potentiële verliezen nooit de moeite waard om het grootste deel van de winst op te geven.
 
 ### ESG fonds
 
@@ -141,11 +145,11 @@ Het realistische risico bestaat erin dat de bank je geld terug wil terwijl de ma
 
 Over-the-counter (OTC) effecten worden rechtstreeks tussen tegenpartijen verhandeld zonder op een beurs te zijn genoteerd. Effecten die over-the-counter worden verhandeld, kunnen worden gefaciliteerd door een handelaar of makelaar die gespecialiseerd is in OTC-markten.
 
-### Opties / Options
+### Opties
 
-Als je gaat beleggen in opties dan koop je het recht om in de toekomst een onderliggende waarde af te nemen of te leveren. Bij het beleggen gaat het om een onderliggende waarde zoals valuta, grondstoffen of aandelen. Bij opties is er sprake van een contractgrootte; koop je een optie met een aandeel als onderliggende waarde, bijvoorbeeld Heineken, dan gaat het om 100 aandelen. Opties werken met een zogenaamd hefboomeffect waardoor je met een kleine investering een groot rendement kan behalen. Hier staat tegenover dat jouw investering ook sneller in waarde kan afnemen. Je kan bij gekochte opties zelfs gemakkelijk je gehele inleg kwijtraken.
+Als je gaat beleggen in opties, of options in het Engels, dan koop je het recht om in de toekomst een onderliggende waarde af te nemen of te leveren. Bij het beleggen gaat het om een onderliggende waarde zoals valuta, grondstoffen of aandelen. Bij opties is er sprake van een contractgrootte; koop je een optie met een aandeel als onderliggende waarde, bijvoorbeeld Heineken, dan gaat het om 100 aandelen. Opties werken met een zogenaamd hefboomeffect waardoor je met een kleine investering een groot rendement kan behalen. Hier staat tegenover dat jouw investering ook sneller in waarde kan afnemen. Je kan bij gekochte opties zelfs gemakkelijk je gehele inleg kwijtraken.
 
-Opties zijn aantrekkelijk voor speculanten door hun groot rendement als alles goed gaat. Maar voorspellen wanneer een aandeel stijgt of daalt, en tussen welke prijs het zal vallen, is onmogelijk. Het beste wat je kunt doen is opties vermijden, sinds je veel te gemakkelijk je belegde geld kunt verliezen. Opties zijn enkel voordelig voor de broker, sinds ze altijd op korte termijn geschreven worden.
+Opties zijn aantrekkelijk voor speculanten door hun groot rendement als alles goed gaat. Maar voorspellen wanneer een aandeel stijgt of daalt, en tussen welke prijs het zal vallen, is onmogelijk. Het beste wat je kunt doen is opties vermijden, sinds je veel te gemakkelijk je belegde geld kunt verliezen. Opties zijn enkel voordelig voor de broker, sinds opties altijd op korte termijn geschreven worden en brokers commisie nemen op elke transactie.
 
 ### Short gaan
 
