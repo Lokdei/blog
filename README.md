@@ -2,7 +2,7 @@
 
 Build locally with `hugo server --buildDrafts`
 
-Build for production with `hugo --theme hugo-universal-theme`
+Build for production with `hugo --theme hugo-universal-theme --cleanDestinationDir `
 
 
 ```sh
