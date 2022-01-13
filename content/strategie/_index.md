@@ -26,11 +26,10 @@ Als je geïnteresseerd bent, we hebben een [gedetailleerd artikel over pensioens
 
 ## De Index volgen
 
-Er zijn enorm veel aandelen om uit te kiezen, maar het uitzoeken welke bedrijven er nu juist de beste zijn kan erg tijdrovend zijn. Het is dan ook mogelijk om héél de markt te kopen. Dit noemt men de index kopen, of volgen. Jij koopt dan een ETF, wat staat voor een **E**xchange **T**raded **F**und. Jij maakt dan de keuze op welke markt je wil volgen: 
+Er zijn enorm veel aandelen om uit te kiezen, maar het uitzoeken welke bedrijven er nu juist de beste zijn kan erg tijdrovend zijn. Het is dan ook mogelijk om héél de markt te kopen. Dit noemt men de index kopen, of volgen. Jij koopt dan een ETF, wat staat voor een **E**xchange **T**raded **F**und. Jij maakt dan de keuze op welke markt je wil volgen:
 
 - Voor de Amerikaanse markt heb je de S&P500, ofwel de 500 grootste Amerikaanse bedrijven. Deze kun je volgen door een aandeel van VWCE of IWDA te kopen.
-- De Europeese markt heb je de STOXX600 met de 600 grootste Europeese bedrijven. 
-
+- De Europese markt heb je de STOXX600 met de 600 grootste Europese bedrijven.
 
 Dit is gemakkelijk omdat het weinig tijd inneemt en je verspreidt bent qua risico. Deze strategie gaat vaak gepaard met het maandelijks bijkopen van meer index-aandelen, net zoals de vorige strategie. In plaats van je bank gaan Vanguard of Blackrock, afhankelijk van bij wie je de index koopt, bedrijven selecteren en aandelen kopen.
 
@@ -49,21 +48,21 @@ Phil leert ons hoe we kunnen beleggen zonder onze eigen ethiek in gevaar te bren
 
 Omdat dit een uitgebreide strategie is kunnen we dit niet in 1 artikel verwerken, neem een kijkje in volgende [rule1](/rule1) artikels om te starten.
 
-# Andere belegingsstrategieën
+# Andere beleggings-strategieën
 
-Er zijn echter veel meer strategieen waaruit je kunt kiezen. Maar deze bieden vaak niet genoeg veiligheid, of worden in België zwaar belast. Laat ons een kijkje nemen naar te vermijden methodes voor zij die rijk willen worden en blijven.
+Er zijn echter veel meer strategieën waaruit je kunt kiezen. Maar deze bieden vaak niet genoeg veiligheid, of worden in België zwaar belast. Laat ons een kijkje nemen naar te vermijden methodes voor zij die rijk willen worden en blijven.
 
 - Dividendrendement
 - Koop laag, verkoop hoog
 - Fondsen met een hoge kostenverhouding, ofwel total expense ratio (TER)
 
-## Dividentrendement
+## Dividendrendement
 
 Als je een aandeel bezit, bezit jij een klein stukje van het bedrijf. Als bedrijfseigenaar heb je dan recht op een deel van de winstuitkering. Jouw bedrijf heeft de keuze om met zijn winst meer machines of personeel aan te werven om volgend jaar zo nog meer winst te maken. Ze kunnen ook beslissen om een deel van de winst als dividend uit te keren aan de eigenaars.
 
 Personen die een dividend strategie volgen zoeken bedrijven die jaar na jaar een hoog dividend uitkeren. Voor de Belgische belegger is dit echter helemaal niet voordelig, je moet namelijk 30% van je winst teruggeven aan de staat! De eerste 800 euro mag je ontvangen zonder daar extra belastingen op te betalen, maar daarna zien je centjes af. Daar bovenop komt nog een aangepaste belastingsbrief. Jij moet ook bijhouden wanneer je dividend ontvangt waarna je het moet aangeven aan de belastingsdienst. Gelukkig gebeurt dit veelal automatisch via je broker, maar je moet steeds controleren of dit correct aangegeven is.
 
-Divident ontvangen kan heel leuk zijn, maar vergis je niet! Het lijkt alsof alles goed gaat, maar als je op lange termijn kijkt zet je een groot deksel op je eigen winst.
+Dividend ontvangen kan heel leuk zijn, maar vergis je niet! Het lijkt alsof alles goed gaat, maar als je op lange termijn kijkt zet je een groot deksel op je eigen winst.
 
 ## Koop laag, verkoop hoog
 
@@ -75,15 +74,13 @@ Bij deze strategie heb je geen 'vloer' voor je aandeel. Tegelijkertijd zet je ee
 
 ## Fondsen met een hoge kostenverhouding
 
-Fondsen kun je gemakkelijk aankopen bij je bank, net zoals je pensioensparen kunt starten. Ook kun je online fondsen verhandelen. Het nadeel van actief beheerde fondsen is dat ze historisch gezien minder goed presteren op lange tijd dan wanneer je een index volgt. Terwijl ze een minder goed presteren kost het je ook nog eens geld om in een fonds te blijven! Het is namelijk de gewoonte voor actief beheerde fondsen om jaarlijks 1% van je inleg te vragen voor hun werk. Daar bovenop komt mogelijk nog de uitstapkost wanneer je wil uitcashen! 
+Fondsen kun je gemakkelijk aankopen bij je bank, net zoals je pensioensparen kunt starten. Ook kun je online fondsen verhandelen. Het nadeel van actief beheerde fondsen is dat ze historisch gezien minder goed presteren op lange tijd dan wanneer je een index volgt. Terwijl ze een minder goed presteren kost het je ook nog eens geld om in een fonds te blijven! Het is namelijk de gewoonte voor actief beheerde fondsen om jaarlijks 1% van je inleg te vragen voor hun werk. Daar bovenop komt mogelijk nog de uitstapkost wanneer je wil uitcashen!
 
 Als je met 1000 euro start, dan heb je na 30 jaar een enorm verschil.
 
-| Aankoop                                                   | Index    | Fonds    |
-| Gemiddelde beheerskost                                    | 0,09%    | 0,82%    |
+| Aankoop | Index | Fonds |
+| Gemiddelde beheerskost | 0,09% | 0,82% |
 | 1000 euro geïnvesteerd met 7% gemiddelde winst na 30 jaar | € 99 000 | € 86 000 |
-| Verloren winst aan beheerskosten                          | € 1800   | € 15 000 |
+| Verloren winst aan beheerskosten | € 1800 | € 15 000 |
 
-Sommige mensen geloven dat de hoge kosten betekenen dat de financiële beheerders beter werk zullen leveren. Maar zoals we zien zijn het eerder de financiele managers die met een yacht naar hun werk varen dan hun klanten. Een index kopen is dus wenselijk als we het vergelijken met een traditioneel fonds met een hoge kostenverhouding.
-
-
+Sommige mensen geloven dat de hoge kosten betekenen dat de financiële beheerders beter werk zullen leveren. Maar zoals we zien zijn het eerder de financiële managers die met een yacht naar hun werk varen dan hun klanten. Een index kopen is dus wenselijk als we het vergelijken met een traditioneel fonds met een hoge kostenverhouding.
