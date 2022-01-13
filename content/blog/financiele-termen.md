@@ -1,9 +1,9 @@
 ---
-title: "Financiële Instrumenten"
+title: "Financiële Termen"
 date: 2021-12-08T17:20:52+01:00
 authors:
   - "Bert"
-banner: "img/content/blog/financiele-instrumenten/banner.jpg"
+banner: "img/content/blog/financiele-termen/banner.jpg"
 banner_author: "Xolo Piks"
 banner_site_url: "https://www.vecteezy.com/vector-art/2288015-tourist-holding-a-map"
 banner_site_title: "Vecteezy.com"
@@ -15,7 +15,7 @@ collection_navigation_vorige_url: "/blog/brokers/"
 collection_navigation_volgende_url: "/blog/de-actieve-belegger/"
 ---
 
-Leren investeren was gemakkelijker gezegd dan gedaan. Onderweg kom je termen tegen die je niet kent. Ik wil je met onderstaande verklarende woordenlijst bijstaan zodat je gemakkelijk terug kunt vallen op het belangrijkste punt voor investeerders: "Is het iets wat ik moet begrijpen?". Ik ga je in het volgend artikel uitleggen hoe je investeerd in uitstekende bedrijven, maar verre van iedereen volgt deze strategie. De financiele markt trekt ook gokkers (zie Wall Street) aan die in heel andere zaken geïnteresseerd zijn.
+Leren investeren was gemakkelijker gezegd dan gedaan. Onderweg kom je termen tegen die je niet kent. Ik wil je met onderstaande verklarende woordenlijst bijstaan zodat je gemakkelijk terug kunt vallen op het belangrijkste punt voor investeerders: "Is het iets wat ik moet begrijpen?". Allereest volgt een lijst met de belangrijkste zaken.
 
 # Belangrijke concepten
 
@@ -49,6 +49,10 @@ Het bedrijf beslist of het zelf een dividend wil uitkeren. Deze beslissing wordt
 ETF’s, passieve fondsen en trackers: het zijn verschillende namen voor hetzelfde product. ETF's zijn beleggingsinstrumenten die een index op de voet volgen.  
 Technisch is een ETF een beleggingsfonds waarin alle aandelen van een index zijn opgenomen in een gewogen verhouding. Een ETF zal dus aandelen kopen en verkopen uit een bepaalde mand.
 
+### Holding
+
+Een bedrijf dat andere bedrijven volledig, of gedeeltelijk bezit. Je kunt het zien als een soort moederbedrijf. Holdings kiezen er vaak voor om in verschillende bedrijven te investeren, de bedrijven te laten groeien, en nadien hun aandelen in het bedrijf te verkopen voor een meerwaarde. De prijs van een holding wordt dus bepaald door de combinatie van de onderliggende bedrijven, en hoe goed het management van de holding het kapitaal kan investeren in goede bedrijven.
+
 ### Inflatie
 
 Inflatie is een ander woord voor waardevermindering van geld. Het houdt in dat je in een periode minder waar voor je geld kunt kopen dan de vorige in een vergelijkbare periode ervoor (bijvoorbeeld in één jaar).
@@ -65,7 +69,7 @@ Een obligatie is een schuldbewijs van een uitgevende instantie aan de geldverstr
 
 # Interessante concepten
 
-Volgende termen en concepten kunnen je een beter idee geven in waar het om gaat.
+Volgende termen en concepten kunnen je een beter idee geven in waar het om gaat. Ze zijn zeker niet cruciaal om te leren investeren, maar je gaat ze geregeld tegenkomen in de financiële wereld. Het kan handig zijn om te snappen wat ze betekenen.
 
 ### Bull Market
 
@@ -81,7 +85,7 @@ Waarom een verwijzing naar een beer? Wanneer een beer aanvalt, dan slaat hij met
 
 ### Fear & Greed index
 
-De fear and greed index is een instrument dat door sommige beleggers wordt gebruikt om het marktsentiment te peilen. Het is gebaseerd op de veronderstelling dat een buitensporige angst ertoe kan leiden dat aandelen ver onder hun intrinsieke waarde worden verhandeld, terwijl een buitensporige hebzucht ertoe kan leiden dat aandelen tot ver boven hun intrinsieke waarde worden getild.
+De fear and greed index is een instrument dat door sommige beleggers wordt gebruikt om het marktsentiment te peilen. Het is gebaseerd op de veronderstelling dat overdreven angst ertoe leidt dat aandelen ver onder hun intrinsieke waarde worden verhandeld, terwijl overdreven hebzucht ertoe kan leiden dat aandelen tot ver boven hun intrinsieke waarde worden getild.
 
 CNN biedt inzicht in de Amerikaanse markt met hun [fear & greed index](https://money.cnn.com/data/fear-and-greed/).
 
@@ -107,7 +111,7 @@ De marktkapitalisatie wordt berekend door het aantal uitstaande aandelen van een
 
 # Oppassen
 
-Als je deze begrippen tegenkomt moet je opletten dat je niet voor een bedot wordt.
+Als je deze begrippen tegenkomt moet je opletten dat je niet voor bedot wordt. Dit zijn zaker die je als beginner zeker wil vermijden. Eens je jezelf een expert gaat noemen ga je merken dat je als expert er dezelfde mening van gaat over houden.
 
 ### Covered Calls
 
@@ -119,15 +123,15 @@ Voor individuele beleggers is het indekken van de potentiële verliezen nooit de
 
 ### ESG fonds
 
-ESG staat voor Environmental, Social, and Governance. Dit zijn fondsen met bedrijven die aan voorafgaande ethische toetsen moeten voldoen. Deze ethische voorwaarden zijn vaak echter zo breed dat ze voor veel mensen het doel missen. Voor investeerders die ethisch willen investeren raad ik aan om zelf hun geld te beheren in de plaats van een fonds dit te laten doen voor hen.
+ESG staat voor Environmental, Social, and Governance. Dit zijn fondsen met bedrijven die aan voorafgaande ethische toetsen moeten voldoen. Deze ethische voorwaarden zijn vaak echter zo breed dat ze voor veel mensen het doel missen. Voor investeerders die ethisch willen investeren raad ik aan om zelf hun geld te beheren in de plaats van een fonds dit te laten doen voor hen. ESG fondsen gaan typisch gepaard met een hoge beheerskost, wat een groot nadeel is.
 
 ### Hedge Fund
 
-Een hedge fund (hedgefonds) is een besloten fonds met een forse minimale instap en relatief hoge kosten. Er zijn verschillende strategieën die hedge funds kunnen gebruiken, maar vaak komen ze negatief in het nieuws. Dit komt omdat ze tegen elkaar concurreren en elkaars rijke klanten willen stelen. Om geen klanten te verliezen moeten ze steeds bewijzen dat ze meer rendement geven dan het volgende hedge fund. Dit bevorderd onethisch gedrag sinds elke strategie overwogen wordt zolang het maar beter presteert.
+Een hedge fund (hedgefonds) is een voornamelijk besloten fonds met een forse minimale instap en relatief hoge kosten. Er zijn verschillende strategieën die hedge funds kunnen gebruiken, maar vaak komen ze negatief in het nieuws. Dit komt omdat ze tegen elkaar concurreren en elkaars rijke klanten willen stelen. Om geen klanten te verliezen moeten ze steeds bewijzen dat ze meer rendement geven dan het volgende hedge fund. Dit bevorderd onethisch gedrag sinds elke strategie overwogen wordt zolang het maar beter presteert.
 
 ### IPO
 
-Initial Public Offering (IPO) is de Engelse term die gebruikt wordt wanneer een bedrijf voor het eerst naar de beurs trekt. Vaak wordt deze vergezeld door veel hype. Dit komt omdat bedrijven er vaak voor kiezen om voor een partner te kiezen die het bedrijf marketten om zo uiteindelijk een hoge aandeelwaarde te bekomen. De partnerbedrijven krijgen hier dan een procentje op. Het is bij gevolg dan ook zelden interessant om naar IPO's te kijken.
+Initial Public Offering (IPO) is de Engelse term die gebruikt wordt wanneer een bedrijf voor het eerst naar de beurs trekt. Vaak wordt deze vergezeld door veel hype. Dit komt omdat bedrijven er vaak voor kiezen om voor een partner te kiezen die het bedrijf promoten om zo uiteindelijk een hoge aandeelwaarde te bekomen. De partnerbedrijven krijgen hier dan een aanzienlijk procentje op. Het is bij gevolg dan ook zelden interessant om naar IPO's te kijken.
 
 ### Margin
 
@@ -141,27 +145,23 @@ Vrij vertaald wil dit zeggen: markten kunnen langer irrationeel blijven dan jij 
 
 Het realistische risico bestaat erin dat de bank je geld terug wil terwijl de markt je aandeel onterecht de dieperik in helpt.
 
-### OTC Market
-
-Over-the-counter (OTC) effecten worden rechtstreeks tussen tegenpartijen verhandeld zonder op een beurs te zijn genoteerd. Effecten die over-the-counter worden verhandeld, kunnen worden gefaciliteerd door een handelaar of makelaar die gespecialiseerd is in OTC-markten.
-
 ### Opties
 
 Als je gaat beleggen in opties, of options in het Engels, dan koop je het recht om in de toekomst een onderliggende waarde af te nemen of te leveren. Bij het beleggen gaat het om een onderliggende waarde zoals valuta, grondstoffen of aandelen. Bij opties is er sprake van een contractgrootte; koop je een optie met een aandeel als onderliggende waarde, bijvoorbeeld Heineken, dan gaat het om 100 aandelen. Opties werken met een zogenaamd hefboomeffect waardoor je met een kleine investering een groot rendement kan behalen. Hier staat tegenover dat jouw investering ook sneller in waarde kan afnemen. Je kan bij gekochte opties zelfs gemakkelijk je gehele inleg kwijtraken.
 
-Opties zijn aantrekkelijk voor speculanten door hun groot rendement als alles goed gaat. Maar voorspellen wanneer een aandeel stijgt of daalt, en tussen welke prijs het zal vallen, is onmogelijk. Het beste wat je kunt doen is opties vermijden, sinds je veel te gemakkelijk je belegde geld kunt verliezen. Opties zijn enkel voordelig voor de broker, sinds opties altijd op korte termijn geschreven worden en brokers commisie nemen op elke transactie.
+Opties zijn aantrekkelijk voor speculanten door hun groot rendement als alles goed gaat. Maar voorspellen wanneer een aandeel stijgt of daalt, en tussen welke prijs het zal vallen, is onmogelijk. Het beste wat je kunt doen is opties vermijden, sinds je veel te gemakkelijk je belegde geld kunt verliezen. Opties zijn enkel voordelig voor de broker, sinds opties altijd op korte termijn geschreven worden en brokers commissie nemen op elke transactie.
 
 ### Short gaan
 
 Short gaan is beursjargon. In beurstermen betekent short gaan dat je als belegger anticipeert op een daling. Je verkoopt aandelen die niet in jouw bezit zijn (je leent ze) om deze later terug te kopen tegen een lagere prijs.
 
-Dit is een gevaarlijke strategie, sinds het net als margin trading rap mis kan gaan. Indien de aandeelenprijs stijgt verlies je enorm veel geld! Verder is de maximumwinst bij short gaan 100% (naar 0), terwijl je bij een gewoon aandeel meer dan 100% kunt halen. De beste actie op een aandeel dat te hoog geprijsd staat is het aandeel negeren.
+Dit is een gevaarlijke strategie, sinds het net als margin trading rap mis kan gaan. Indien de prijs van het aandeel stijgt verlies je enorm veel geld! Verder is de maximumwinst bij short gaan 100% (naar 0 bij faillissement), terwijl je bij een gewoon aandeel meer dan 100% kunt halen. De best te nemen actie bij een aandeel/bedrijf dat te hoog geprijsd staat is het negeren.
 
 ### Wall Street
 
-Wall Street is de bekende straat in New York waar de New York Stock Exchange (NYSE) is gevestigd, maar in de volksmond staat Wall Street voor de beurs zelf. Wall Street is het financiele centrum van Amerika en doet voornamelijk aan day-trading of investeerd enkel voor korte termijn. Vaak met behulp van zelfgemaakte financiele modellen die berusten op een foute filosofie.
+Wall Street is de bekende straat in New York waar de New York Stock Exchange (NYSE) is gevestigd, maar in de volksmond staat Wall Street voor de beurs zelf. Wall Street is het financiële centrum van Amerika en doet voornamelijk aan day-trading of investeert enkel voor korte termijn. Vaak met behulp van zelfgemaakte financiële modellen die berusten op een foute filosofie.
 
-Het biedt een leuk decor voor films met de verschillende financiele crisissen die ze helpen veroorzaken, en de sociale impact die ze nalaten:
+Het biedt een leuk decor voor films met de verschillende financiële crisissen die ze helpen veroorzaken, en de sociale impact die ze nalaten:
 
 - The Big Short (2015)
   The Big Short is een Amerikaanse biografische film over de aanloop naar de kredietcrisis van 2007-2008. Het is een film over verschillende personen (met onder andere [Michael Burry](https://en.wikipedia.org/wiki/Michael_Burry)) uit de Amerikaanse bankwereld die de kredietcrisis hebben zien aankomen en hierop geanticipeerd hebben door te speculeren op de verwachte stagnerende huizenmarkt en de kredietzeepbel die barstte. De verhalen zijn echt gebeurd maar wel aangepast, gedramatiseerd en komischer gemaakt. Het thema van de film is de onwetendheid, of onwil, van de financiële sector om een crisis te zien aankomen en vermijden terwijl de tekens er wel zijn en over hoe enkelen met een realistische blik rijk zijn geworden.
