@@ -161,6 +161,8 @@ Dit is een gevaarlijke strategie, sinds het net als margin trading rap mis kan g
 
 Wall Street is de bekende straat in New York waar de New York Stock Exchange (NYSE) is gevestigd, maar in de volksmond staat Wall Street voor de beurs zelf. Wall Street is het financiële centrum van Amerika en doet voornamelijk aan day-trading of investeert enkel voor korte termijn. Vaak met behulp van zelfgemaakte financiële modellen die berusten op een foute filosofie.
 
+> Wall Street loves to use confusing terms to make you think only they can do what they do. Or, even better, for you just to leave them the fuck alone. - The Big Short
+
 Het biedt een leuk decor voor films met de verschillende financiële crisissen die ze helpen veroorzaken, en de sociale impact die ze nalaten:
 
 - The Big Short (2015)
