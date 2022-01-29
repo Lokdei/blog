@@ -12,7 +12,6 @@ categories:
 collection_navigation_title: "Beginnen met investeren"
 collection_navigation_url: "/categories/beginnen-met-investeren/"
 collection_navigation_vorige_url: "/blog/financiele-instrumenten/"
-collection_navigation_volgende_url: "#!"
 ---
 
 HEY
