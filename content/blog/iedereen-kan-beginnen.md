@@ -1,6 +1,7 @@
 ---
 title: "Iedereen Kan Beginnen"
-date: 2021-12-08T17:19:18+01:00
+description: "Geld maken is net als piano spelen een vaardigheid die je leert in stappen. Het herkennen van deze stappen en ze subsequent volgen zorgt ervoor dat je net zo goed aan geldbeheer zal doen, of beter, als de experts die eerst buiten je bereik leken."
+date: 2021-12-08
 authors:
   - "Bert"
 banner: "img/content/blog/iedereen-kan-beginnen/banner.jpg"
@@ -14,8 +15,10 @@ collection_navigation_url: "/categories/beginnen-met-investeren/"
 collection_navigation_volgende_url: "/blog/hoeveel-tijd-heb-ik-nodig/"
 ---
 
-Het was toen ik studeerde dat ik voor het eerst hoorde dat geld maken een vaardigheid is, zoals het spelen van basket of piano, die je kunt verbeteren door er meer tijd in te steken. Dit klikte direct met mij, ik denk dat mensen geen concert zouden willen volgen van iemand met slechts 1 les piano onder de knie. Maar als een concert geven je uiteindelijke doel is, kun je wel duidelijke doelstellingen zetten om daar te geraken. Kun je zoiets ook doen met geldbeheer zodat iedereen er goed in kan worden?
+Als student kwam ik voor het eerst iemand tegen die me zei dat geld maken een vaardigheid is die je kunt leren. Net zoals het spelen van piano een vaardigheid is. Daaruit volgt dat je deze vaardigheid kunt perfectioneren door er meer tijd in te steken. Meer oefenen loont dus, maar hoe begin je hier aan?
 
-Welke lessen moet je leren om je geld niet te verliezen? Niet in de aandelenmarkt, niet aan de overheid, en niet aan de bank? Iedereen in de financiële sector aast wel op jouw centen! En welke kennis moet je opdoen om zo veilig mogelijk jouw spaarvarkentje te verdikken?
+Als je piano wil leren heb je boeken, leerkrachten en websites die je op weg kunnen helpen. Ze gaan je stapsgewijs helpen meer uitdagende oefeningen te voltooien en voor je het weet ben je er mee weg. Kun je zoiets ook doen met geldbeheer zodat iedereen er goed in kan worden?
 
-Op zoek naar financiële verlichting ben ik zo mijn eigen pad tegen gekomen. Een pad dat begon met het ontsluieren van de esoterische termen. Het begon met starten van pensioensparen. Even later ontdekte ik de verborgen kracht van index-tracking, ofwel ETF investeren, met een kleine maandelijkse inleg. En mijn laatste stop is het verwerven van de vaardigheden om een bedrijf op mezelf te analyseren zodat ik volledig ethisch kan investeren.
+Welke lessen bestaan er om je te helpen een groter inkomen op te bouwen? Heb je trucs om een magere portemonnee tegen te gaan? Op welke manier vet je best je spaarvarkentje? Ik zocht een antwoord op al de voorgaande vragen en meer. Al zoekend naar het antwoord creeërde ik mijn eigen weg en besloot om mijn pad neer te schrijven. Zo krijg jij inzicht in alle lessen die ik heb geleerd. Minstens even belangrijk is het vermijden van fouten die ik voor jou toelicht.
+
+Ik neem je in het volgend artikel mee naar het oude Babylon waar ik mijn eerste lessen uit leerde, daarna kijken we naar de voordelen die onze moderne wereld ons aanbiedt. Vervolgens maak ik je wegwijs in de nu misschien complexe financiële wereld. Het uiteindelijke doel is dat we op het einde van de rit met meer geld in onze portemonnee eindigen dan waarmee we gestart zijn. 
