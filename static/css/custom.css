@@ -33,6 +33,10 @@ article p {
   margin-inline-end: 0px;
 }
 
+article blockquote {
+  padding: 0 0 0 10px;
+}
+
 article blockquote p {
   margin: 0;
   background-color: #f8fffe;
