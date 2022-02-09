@@ -62,7 +62,23 @@ Het doet me genoegen je met zoveel voorspoed aan te treffen. Meer nog, het zou m
 
 "Inderdaad, waarom?! Want toen ik wakker werd en me herinnerde hoe leeg mijn beurs was, overviel me een bitter gevoel. Laten we er samen over praten, want, zoals de zeelui zeggen, wij tweeën zitten in hetzelfde schuitje. Als jongelui gingen we samen naar school waar de priesters om leerden wijze mannen te worden. Als jonge knapen deelden we in elkaars genot. En als volwassen mannen zijn we altijd goede vrienden geweest. We waren gelukkige onderdanen van onze klasse. We hebben lang kunnen werken en onze verdiensten vrij kunnen besteden. We hebben veel geld verdiend in de voorbije jaren, maar om de vreugde van rijkdom te kennen, moeten we erover dromen. Bah! Zijn wij niet meer dan domme schapen? We leven in de rijkste stad van de hele wereld. De reizigers zeggen dat niemand haar in rijkdom evenaart.
 
-p16
+Rondom ons wordt er veel gepronkt met luxe en rijkdom, maar we hebben er zelf niets van. Na een half leven hard werken, hebt gij, mijn beste vriend, een lege beurs en zegt tot mij: "Mag ik zo'n kleinigheid als twee shekels lenen tot na het feest van de edelen deze nacht?" Wat moet ik dan antwoorden? Zeg ik: "Hier is mijn beurs; de inhoud zal ik gaarne delen? Nee, ik geef toe dat mijn beurs net zo leeg is als de uwe. Wat is er aan de hand? Waarom kunnen wij geen zilver en goud verkrijgen, meer dan genoeg voor voedsel en kleding? Wat is er gaande? Waarom kunnen wij geen zilvers er goudstukken bemachtigen, meer dan genoeg voor voedsel en kleding?
+
+"Denk ook aan onze zonen," vervolgde Bansir, "treden zij niet in de voetstappen van hun vaders? Moeten zij met toekomstige gezinnen en  zonen hun hele leven tussen zulke goudschatten leven en toch, net als wij, tevreden zijn met een feestmaal van zure geitenmelk en havermout?"
+
+"Nooit, in al de jaren van onze vriendschap, hebt gij zo gesproken, Bansir." Kobbi was verbijsterd.
+
+"Nog nooit in al die jaren heb ik er zo over gedacht. Van 's morgens vroeg tot de duisternis me tegenhield heb ik gewerkt om de beste strijdwagens te bouwen die een mens kon maken, in de hoop dat de Goden op een dag mijn waardige daden zouden erkennen en mij grote voorspoed zouden schenken. Dit hebben ze nooit gedaan. Eindelijk realiseer ik me dat ze dit nooit zullen doen. Daarom is mijn hart bedroefd. Ik zou graag een man van welstand zijn. Ik wil land en vee bezitten, mooie gewaden omdoen en munten in mijn beurs hebben. Ik ben bereid daarvoor te werken met al de kracht in mijn rug, met al de vaardigheid in mijn handen, met al de wijsheid in mijn geest, maar ik wil dat mijn werk eerlijk beloond wordt. Wat is er met ons aan de hand?
+
+Ik vraag het u opnieuw! Waarom krijgen wij niet de vruchten des levens, die er in overvloed zijn voor zij die het goud hebben om ze te kopen?
+
+_"Zou ik een antwoord weten!"_ antwoordde Kobbi. "Niet beter dan gij ben ik tevreden.
+
+Mijn verdiensten van mijn lier zijn al snel op. Vaak moet ik plannen maken zodat mijn familie geen honger lijdt. En in mijn borst is een diep verlangen naar een lier die groot genoeg is om de muziek te kunnen zingen die door mijn hoofd klinkt. Met zo'n instrument zou ik mooiere muziek kunnen maken dan zelfs de koning ooit heeft gehoord."
+
+"Zo'n lier zou u moeten eigen zijn. Niemand in heel Babylon zou hem zo mooi kunnen laten zingen, zo mooi dat niet alleen de koning, maar ook de Goden er blij mee zouden zijn. Maar hoe kunt gij die verkrijgen terwijl wij beiden zo arm zijn als de slaven van de koning? Luister naar de bel! Hier komen ze."
+
+p17
 
 # De Rijkste Man In Babylon
 
