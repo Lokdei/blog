@@ -78,7 +78,25 @@ Mijn verdiensten van mijn lier zijn al snel op. Vaak moet ik plannen maken zodat
 
 "Zo'n lier zou u moeten eigen zijn. Niemand in heel Babylon zou hem zo mooi kunnen laten zingen, zo mooi dat niet alleen de koning, maar ook de Goden er blij mee zouden zijn. Maar hoe kunt gij die verkrijgen terwijl wij beiden zo arm zijn als de slaven van de koning? Luister naar de bel! Hier komen ze."
 
-p17
+Hij wees naar de lange rij halfnaakte, zwetende waterdragers die moeizaam de smalle straat vanaf de rivier opkwamen. Met vijf naast elkaar marcheerden ze, elk gebogen onder een zware geitenhuid gevuld met water.
+
+"Een keurige heer, hij die hen leidt." Kobbi wees naar de drager van de bel die zonder last voorop marcheerde. "Een vooraanstaand man in zijn eigen land, dat is gemakkelijk te zien."
+
+"Er zijn veel knappe figuren in de rij," beaamde Bansir, "even knap als ons. Lange, blonde mannen uit het noorden, lachende zwarte mannen uit het zuiden, kleine bruine mannen uit de dichterbij gelegen landen. Allemaal marcheren ze samen van de rivier naar de tuinen, heen en weer, dag na dag, jaar na jaar. Niets van geluk om naar uit te kijken. Met bedden van stro om op te slapen en mout om te eten. Heb medelijden met de arme beesten, Kobbi!"
+
+Medelijden krijgen ze. Maar toch, je toont me hoe wij het maar een beetje beter af hebben. Wij kunnen onszelf nog juist vrij noemen. 
+
+Het is waar, Kobbi, ook al is het een onaangename gedachte. We willen niet jaar na jaar slaafs verder leven. Werken, werken, werken! En nergens komen."
+
+"Zouden we niet kunnen uitzoeken hoe anderen aan goudstukken komen, en doen wat zij doen?" Vroeg Kobbi.
+
+"Misschien is er een geheim dat we te weten kunnen komen als we het maar vragen aan hen die het weten," antwoordde Bansir bedachtzaam.
+
+"Nog vandaag," merkte Kobbi op, "passeerde ik onze oude vriend Arkad, rijdend in zijn gouden chariot. Ik moet zeggen dat hij niet over mijn nederige hoofd heen keek zoals velen in zijn stand dat zouden doen. In plaats daarvan zwaaide hij met zijn hand, zodat alle omstaanders hem mij konden zien groeten met een vrolijke glimlach. Een aandenken aan onze vriendschap. 
+
+"Men beweert dat hij de rijkste man van heel Babylon is," mijmerde Bansir. "Zo rijk dat de koning zijn hulp zou zoeken in belangrijke kwesties in verband met de schatkist," antwoordde Kobbi. "Zo rijk," onderbrak Bansir, "dat ik vrees dat als ik hem in het donkerste van de nacht zou ontmoeten, ik zijn vette portefeuille in handen zou nemen."
+
+p18
 
 # De Rijkste Man In Babylon
 
