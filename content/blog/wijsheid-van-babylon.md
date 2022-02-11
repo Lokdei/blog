@@ -3,16 +3,16 @@ title: "De rijkste man van Babylon"
 description: "Zo'n 8000 jaar geleden ontstond in Babylonië voor het eerst een stad met ongekende rijkdom en luxe dat het reizigers aantrok van overal in de oude wereld. Omdat papier nog niet bestond werd alles op tabletten van klei genoteerd. Hierdoor kunnen we vandaag nog steeds lessen trekken uit de verhalen die onze voorouders ons achtergelaten hebben."
 date: 2022-01-30T18:11:56+01:00
 draft: true
-authors: 
-- 'Bert'
+authors:
+  - "Bert"
 banner: "img/content/banner-default.jpg"
-banner_author: 'Xolo Piks'
-banner_site_url: 'https://www.vecteezy.com/'
-banner_site_title: 'Vecteezy.com'
+banner_author: "Xolo Piks"
+banner_site_url: "https://www.vecteezy.com/"
+banner_site_title: "Vecteezy.com"
 categories:
-- Beginnen met investeren
-- George S. Clayson 
-- The Richest man in Babylon
+  - Beginnen met investeren
+  - George S. Clayson
+  - The Richest man in Babylon
 collection_navigation_title: "Beginnen met investeren"
 collection_navigation_url: "/categories/beginnen-met-investeren/"
 collection_navigation_vorige_url: "/blog/iedereen-kan-beginnen/"
@@ -24,7 +24,7 @@ Zo'n 8000 jaar geleden ontstond in Babylonië voor het eerst een stad met ongeke
 De tijd heeft de eens prachtige stad onder zand bedolven, maar de wijsheid van de kleitabletten wordt nog steeds gegeerd.
 
 > Geld is het medium waarmee success op aarde gemeten wordt.
-> 
+>
 > Geld maakt het mogelijk te genieten van het beste wat de aarde te bieden heeft.
 >
 > Geld is in overvloed te vinden bij diegenen die de simpele rituelen verstaan die het verdienen ervan regelen.
@@ -33,10 +33,10 @@ De tijd heeft de eens prachtige stad onder zand bedolven, maar de wijsheid van d
 
 # De Man Die Goud Verlangde
 
-Bansir, de wagenbouwer van Babylon, was bedroefd. Terwijl hij op zijn lage muur zat die zijn woning omringde staarde hij ontmoedigd naar zijn simpel huis en de open werkplaats waarin een gedeeltelijk voltooide strijdwagen stond. 
+Bansir, de wagenbouwer van Babylon, was bedroefd. Terwijl hij op zijn lage muur zat die zijn woning omringde staarde hij ontmoedigd naar zijn simpel huis en de open werkplaats waarin een gedeeltelijk voltooide strijdwagen stond.
 
 Zijn vrouw verscheen regelmatig aan de open deur. Haar heimelijke blikken in zijn richting waren een herinnering dat het eten bijna op was en dat hij aan het werk moest zijn om zijn strijdwagen af te maken.
-Gaan timmeren en zagen, polijsten en verven om vervolgens het leer strak over de wielranden te spannen en de strijdwagen klaar te maken voor  levering, zodat hij zijn vergoeding bij zijn rijke klant kon ophalen.
+Gaan timmeren en zagen, polijsten en verven om vervolgens het leer strak over de wielranden te spannen en de strijdwagen klaar te maken voor levering, zodat hij zijn vergoeding bij zijn rijke klant kon ophalen.
 
 Niettemin zat zijn dikke, gespierde lichaam stijf tegen de muur. Zijn trage geest worstelde geduldig met een probleem waarop hij geen antwoord kon vinden.
 
@@ -47,9 +47,9 @@ Dit was een klassieke prent van Babylon, een mengeling van grootsheid en ellende
 
 Achter hem, als hij zich had willen omdraaien en kijken, verdrongen de rijken met hun luidruchtige wagens de in sandalen geklede handelaars en blootvoetse bedelaars. Maar zelfs de rijken moesten zich naar de goten wenden om de weg vrij te maken voor de lange rijen slaafse waterdragers die "in opdracht van de koning", elk een zware geitenzak gevuld met water droegen om de beroemde hangtuinen te wateren.
 
-Bansir was te verdiept in zijn eigen gedachten om het warrige geroezemoes van de drukke stad te horen of te horen. Het onverwachte getokkel op de snaren van een bekende lier wekte hem uit zijn roes. Hij draaide zich om en keek naar het lachende gezicht van zijn beste vriend  Kobbi, de muzikant.
+Bansir was te verdiept in zijn eigen gedachten om het warrige geroezemoes van de drukke stad te horen of te horen. Het onverwachte getokkel op de snaren van een bekende lier wekte hem uit zijn roes. Hij draaide zich om en keek naar het lachende gezicht van zijn beste vriend Kobbi, de muzikant.
 
-"Mogen de Goden u zegenen met grote gulheid, mijn goede vriend," begon Kobbi met een uitgebreide begroeting. "Toch lijkt het erop dat ze al zo vrijgevig zijn geweest dat je niet hoeft te werken. 
+"Mogen de Goden u zegenen met grote gulheid, mijn goede vriend," begon Kobbi met een uitgebreide begroeting. "Toch lijkt het erop dat ze al zo vrijgevig zijn geweest dat je niet hoeft te werken.
 Het doet me genoegen je met zoveel voorspoed aan te treffen. Meer nog, het zou mijn plezier zijn om in je geluk te delen. Alstublieft, wil je uit uwe beurs, die moet uitpuilen want anders zoudt gij nog bezig zijn in uw winkel, twee nederige shekels nemen om ze aan mij uit te lenen tot na het feest van de edelen hedenavond? Gij zult ze niet missen voordat zij worden teruggegeven."
 
 "Als ik twee shekels had," antwoordde Bansir somber, "zou ik ze aan niemand kunnen uitlenen, zelfs niet aan jou, mijn beste vriend, want ze zouden mijn fortuin zijn, mijn hele fortuin. Niemand leent zijn hele fortuin uit, zelfs niet aan zijn beste vriend."
@@ -64,7 +64,7 @@ Het doet me genoegen je met zoveel voorspoed aan te treffen. Meer nog, het zou m
 
 Rondom ons wordt er veel gepronkt met luxe en rijkdom, maar we hebben er zelf niets van. Na een half leven hard werken, hebt gij, mijn beste vriend, een lege beurs en zegt tot mij: "Mag ik zo'n kleinigheid als twee shekels lenen tot na het feest van de edelen deze nacht?" Wat moet ik dan antwoorden? Zeg ik: "Hier is mijn beurs; de inhoud zal ik gaarne delen? Nee, ik geef toe dat mijn beurs net zo leeg is als de uwe. Wat is er aan de hand? Waarom kunnen wij geen zilver en goud verkrijgen, meer dan genoeg voor voedsel en kleding? Wat is er gaande? Waarom kunnen wij geen zilvers er goudstukken bemachtigen, meer dan genoeg voor voedsel en kleding?
 
-"Denk ook aan onze zonen," vervolgde Bansir, "treden zij niet in de voetstappen van hun vaders? Moeten zij met toekomstige gezinnen en  zonen hun hele leven tussen zulke goudschatten leven en toch, net als wij, tevreden zijn met een feestmaal van zure geitenmelk en havermout?"
+"Denk ook aan onze zonen," vervolgde Bansir, "treden zij niet in de voetstappen van hun vaders? Moeten zij met toekomstige gezinnen en zonen hun hele leven tussen zulke goudschatten leven en toch, net als wij, tevreden zijn met een feestmaal van zure geitenmelk en havermout?"
 
 "Nooit, in al de jaren van onze vriendschap, hebt gij zo gesproken, Bansir." Kobbi was verbijsterd.
 
@@ -84,7 +84,7 @@ Hij wees naar de lange rij halfnaakte, zwetende waterdragers die moeizaam de sma
 
 "Er zijn veel knappe figuren in de rij," beaamde Bansir, "even knap als ons. Lange, blonde mannen uit het noorden, lachende zwarte mannen uit het zuiden, kleine bruine mannen uit de dichterbij gelegen landen. Allemaal marcheren ze samen van de rivier naar de tuinen, heen en weer, dag na dag, jaar na jaar. Niets van geluk om naar uit te kijken. Met bedden van stro om op te slapen en mout om te eten. Heb medelijden met de arme beesten, Kobbi!"
 
-Medelijden krijgen ze. Maar toch, je toont me hoe wij het maar een beetje beter af hebben. Wij kunnen onszelf nog juist vrij noemen. 
+Medelijden krijgen ze. Maar toch, je toont me hoe wij het maar een beetje beter af hebben. Wij kunnen onszelf nog juist vrij noemen.
 
 Het is waar, Kobbi, ook al is het een onaangename gedachte. We willen niet jaar na jaar slaafs verder leven. Werken, werken, werken! En nergens komen."
 
@@ -92,11 +92,29 @@ Het is waar, Kobbi, ook al is het een onaangename gedachte. We willen niet jaar 
 
 "Misschien is er een geheim dat we te weten kunnen komen als we het maar vragen aan hen die het weten," antwoordde Bansir bedachtzaam.
 
-"Nog vandaag," merkte Kobbi op, "passeerde ik onze oude vriend Arkad, rijdend in zijn gouden chariot. Ik moet zeggen dat hij niet over mijn nederige hoofd heen keek zoals velen in zijn stand dat zouden doen. In plaats daarvan zwaaide hij met zijn hand, zodat alle omstaanders hem mij konden zien groeten met een vrolijke glimlach. Een aandenken aan onze vriendschap. 
+"Nog vandaag," merkte Kobbi op, "passeerde ik onze oude vriend Arkad, rijdend in zijn gouden chariot. Ik moet zeggen dat hij niet over mijn nederige hoofd heen keek zoals velen in zijn stand dat zouden doen. In plaats daarvan zwaaide hij met zijn hand, zodat alle omstaanders hem mij konden zien groeten met een vrolijke glimlach. Een aandenken aan onze vriendschap.
 
-"Men beweert dat hij de rijkste man van heel Babylon is," mijmerde Bansir. "Zo rijk dat de koning zijn hulp zou zoeken in belangrijke kwesties in verband met de schatkist," antwoordde Kobbi. "Zo rijk," onderbrak Bansir, "dat ik vrees dat als ik hem in het donkerste van de nacht zou ontmoeten, ik zijn vette portefeuille in handen zou nemen."
+"Men beweert dat hij de rijkste man van heel Babylon is," mijmerde Bansir. "Zo rijk dat de koning zijn hulp zou zoeken in belangrijke kwesties in verband met de schatkist," antwoordde Kobbi. "Zo rijk," onderbrak Bansir, "dat ik vrees dat als ik hem in het donkerste van de nacht zou ontmoeten, ik zijn dikke beurs in handen zou nemen."
 
-p18
+"Onzin," verweet Kobbi, "de rijkdom van een man zit niet in de beurs die hij draagt. Een dikke beurs raakt snel leeg als er geen bron is om hem te vullen. Arkad heeft een inkomen dat constant zijn beurs vult, hoe royaal hij ook uitgeeft."
+
+"Inkomen, daar gaat het om," verzuchtte Bansir. "Ik wil een inkomen dat in mijn beurs blijft stromen, of ik nu op de muur zit of naar verre landen reis. Arkad moet weten hoe een man een inkomen voor zichzelf kan verdienen. Denk je dat hij dat duidelijk kan maken aan een trage geest als de mijne?"
+
+"Ik denk dat hij zijn kennis aan zijn zoon heeft aangeleerd, Nomasir," antwoordde Kobbi.
+
+"Kobbi, gij brengt mij op een zeldzame gedachte." Een nieuw licht fonkelde in Bansir's ogen. "Het kost niets om wijze raad te vragen aan een goede vriend en Arkad was dat altijd. Het maakt niet uit of onze beurs zo leeg is als een feestzaal zonder muziekanten. Laat dit ons niet ophouden. We zijn het zat zonder goudstukken te zitten in een wereld van overvloed. We willen mannen met kapitaal worden. Kom, laten we naar Arkad gaan en vragen hoe ook wij aan een inkomen kunnen komen."
+
+Gij spreekt met ware inspiratie, Bansir. Gij brengt mij tot een compleet nieuw inzicht.
+
+Gij doet mij de reden inzien waarom wij nooit enige mate van rijkdom hebben gevonden. We hebben er nooit naar gezocht. Gij hebt geduldig gewerkt om de beste strijdwagens van Babylon te bouwen. Daaraan hebt gij uw beste krachten gewijd. Daarom zijt gij daarin ook geslaagd. Ik streefde ernaar een getalenteerd lierspeler te worden. En daarin ben ik geslaagd.
+
+"In die doelen waar wij ons best voor deden zijn wij geslaagd.
+
+De Goden waren tevreden ons zo te laten doorgaan. Nu, eindelijk, zien we een licht, helder als dat van de rijzende zon. Het gebiedt ons om meer te leren, zodat ook wij floreren. Met een nieuw begrip zullen wij eervolle manieren vinden om onze wensen te vervullen."
+
+"Laten we vandaag nog naar Arkad gaan," spoorde Bansir aan," en laten we ook andere vrienden uit onze jongensjaren, die het niet beter hebben getroffen dan wij, uitnodigen zich bij ons te voegen, zodat ook zij kunnen delen in zijn wijsheid."
+
+"Gij hebt altijd zo aan uw vrienden gedacht, Bansir. Daarom hebt gij vele vrienden. Het zal zijn zoals gij zegt. We gaan vandaag en nemen ze met ons mee."
 
 # De Rijkste Man In Babylon
 
