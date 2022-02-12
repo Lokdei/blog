@@ -5,9 +5,9 @@ date: 2022-01-30T18:11:56+01:00
 draft: true
 authors:
   - "Bert"
-banner: "img/content/banner-default.jpg"
-banner_author: "Xolo Piks"
-banner_site_url: "https://www.vecteezy.com/"
+banner: "img/content/blog/wijsheid-van-babylon/banner.jpg"
+banner_author: "Eva Cornejo"
+banner_site_url: "https://www.vecteezy.com/vector-art/2283132-businessman-attract-money-dollar-coins-with-a-large-magnet"
 banner_site_title: "Vecteezy.com"
 categories:
   - Beginnen met investeren
@@ -23,13 +23,15 @@ Zo'n 8000 jaar geleden ontstond in Babylonië voor het eerst een stad met ongeke
 
 De tijd heeft de eens prachtige stad onder zand bedolven, maar de wijsheid van de kleitabletten wordt nog steeds gegeerd.
 
+{{% insula %}}
 > Geld is het medium waarmee success op aarde gemeten wordt.
 >
-> Geld maakt het mogelijk te genieten van het beste wat de aarde te bieden heeft.
->
+> Geld maakt het mogelijk te genieten van het beste wat de aarde te bieden heeft.  
+> 
 > Geld is in overvloed te vinden bij diegenen die de simpele rituelen verstaan die het verdienen ervan regelen.
 >
 > Geld kent vandaag dezelfde rituelen voor de rijksten zoals het ooit deed voor de welvarende mannen in Babylon.
+{{% /insula %}}
 
 # De Man Die Goud Verlangde
 
@@ -48,6 +50,13 @@ Dit was een klassieke prent van Babylon, een mengeling van grootsheid en ellende
 Achter hem, als hij zich had willen omdraaien en kijken, verdrongen de rijken met hun luidruchtige wagens de in sandalen geklede handelaars en blootvoetse bedelaars. Maar zelfs de rijken moesten zich naar de goten wenden om de weg vrij te maken voor de lange rijen slaafse waterdragers die "in opdracht van de koning", elk een zware geitenzak gevuld met water droegen om de beroemde hangtuinen te wateren.
 
 Bansir was te verdiept in zijn eigen gedachten om het warrige geroezemoes van de drukke stad te horen of te horen. Het onverwachte getokkel op de snaren van een bekende lier wekte hem uit zijn roes. Hij draaide zich om en keek naar het lachende gezicht van zijn beste vriend Kobbi, de muzikant.
+
+{{< figure 
+  src="/img/content/blog/wijsheid-van-babylon/kobbi-320.jpg" 
+  title="Kobbi de muzikant" 
+  class="inline-figure"
+  attrlink="https://www.vecteezy.com/vector-art/3540665-greek-gods-ancient-religion-greece-history-zeus-athena-poseidon-character" attr="van onyxprj_art via Vecteezy.com" 
+>}}
 
 "Mogen de Goden u zegenen met grote gulheid, mijn goede vriend," begon Kobbi met een uitgebreide begroeting. "Toch lijkt het erop dat ze al zo vrijgevig zijn geweest dat je niet hoeft te werken.
 Het doet me genoegen je met zoveel voorspoed aan te treffen. Meer nog, het zou mijn plezier zijn om in je geluk te delen. Alstublieft, wil je uit uwe beurs, die moet uitpuilen want anders zoudt gij nog bezig zijn in uw winkel, twee nederige shekels nemen om ze aan mij uit te lenen tot na het feest van de edelen hedenavond? Gij zult ze niet missen voordat zij worden teruggegeven."
@@ -72,7 +81,7 @@ Rondom ons wordt er veel gepronkt met luxe en rijkdom, maar we hebben er zelf ni
 
 Ik vraag het u opnieuw! Waarom krijgen wij niet de vruchten des levens, die er in overvloed zijn voor zij die het goud hebben om ze te kopen?
 
-_"Zou ik een antwoord weten!"_ antwoordde Kobbi. "Niet beter dan gij ben ik tevreden.
+"Ik versta het ook niet!" antwoordde Kobbi. "Niet beter dan gij ben ik tevreden.
 
 Mijn verdiensten van mijn lier zijn al snel op. Vaak moet ik plannen maken zodat mijn familie geen honger lijdt. En in mijn borst is een diep verlangen naar een lier die groot genoeg is om de muziek te kunnen zingen die door mijn hoofd klinkt. Met zo'n instrument zou ik mooiere muziek kunnen maken dan zelfs de koning ooit heeft gehoord."
 
