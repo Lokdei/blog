@@ -73,6 +73,13 @@ Het doet me genoegen je met zoveel voorspoed aan te treffen. Meer nog, het zou m
 
 Rondom ons wordt er veel gepronkt met luxe en rijkdom, maar we hebben er zelf niets van. Na een half leven hard werken, hebt gij, mijn beste vriend, een lege beurs en zegt tot mij: "Mag ik zo'n kleinigheid als twee shekels lenen tot na het feest van de edelen deze nacht?" Wat moet ik dan antwoorden? Zeg ik: "Hier is mijn beurs; de inhoud zal ik gaarne delen? Nee, ik geef toe dat mijn beurs net zo leeg is als de uwe. Wat is er aan de hand? Waarom kunnen wij geen zilver en goud verkrijgen, meer dan genoeg voor voedsel en kleding? Wat is er gaande? Waarom kunnen wij geen zilvers er goudstukken bemachtigen, meer dan genoeg voor voedsel en kleding?
 
+{{< figure 
+  src="/img/content/blog/wijsheid-van-babylon/problemen.jpg" 
+  class="inline-figure"
+  attrlink="https://www.vecteezy.com/vector-art/1994953-young-men-friends-characters"
+  attr="van jemastock via Vecteezy.com" 
+>}}
+
 "Denk ook aan onze zonen," vervolgde Bansir, "treden zij niet in de voetstappen van hun vaders? Moeten zij met toekomstige gezinnen en zonen hun hele leven tussen zulke goudschatten leven en toch, net als wij, tevreden zijn met een feestmaal van zure geitenmelk en havermout?"
 
 "Nooit, in al de jaren van onze vriendschap, hebt gij zo gesproken, Bansir." Kobbi was verbijsterd.
@@ -117,7 +124,7 @@ Gij spreekt met ware inspiratie, Bansir. Gij brengt mij tot een compleet nieuw i
 
 Gij doet mij de reden inzien waarom wij nooit enige mate van rijkdom hebben gevonden. We hebben er nooit naar gezocht. Gij hebt geduldig gewerkt om de beste strijdwagens van Babylon te bouwen. Daaraan hebt gij uw beste krachten gewijd. Daarom zijt gij daarin ook geslaagd. Ik streefde ernaar een getalenteerd lierspeler te worden. En daarin ben ik geslaagd.
 
-"In die doelen waar wij ons best voor deden zijn wij geslaagd.
+In die doelen waar wij ons best voor deden zijn wij geslaagd.
 
 De Goden waren tevreden ons zo te laten doorgaan. Nu, eindelijk, zien we een licht, helder als dat van de rijzende zon. Het gebiedt ons om meer te leren, zodat ook wij floreren. Met een nieuw begrip zullen wij eervolle manieren vinden om onze wensen te vervullen."
 
