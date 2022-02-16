@@ -23,7 +23,7 @@ Zo'n 8000 jaar geleden ontstond in Babylonië voor het eerst een stad met ongeke
 
 De tijd heeft de eens prachtige stad onder zand bedolven, maar de wijsheid van de kleitabletten wordt nog steeds gegeerd.
 
-{{% insula %}}
+{{< insula >}}
 > Geld is het medium waarmee success op aarde gemeten wordt.
 >
 > Geld maakt het mogelijk te genieten van het beste wat de aarde te bieden heeft.  
@@ -31,7 +31,7 @@ De tijd heeft de eens prachtige stad onder zand bedolven, maar de wijsheid van d
 > Geld is in overvloed te vinden bij diegenen die de simpele rituelen verstaan die het verdienen ervan regelen.
 >
 > Geld kent vandaag dezelfde rituelen voor de rijksten zoals het ooit deed voor de welvarende mannen in Babylon.
-{{% /insula %}}
+{{< /insula >}}
 
 # De Man Die Goud Verlangde
 
