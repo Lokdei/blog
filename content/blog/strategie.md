@@ -92,31 +92,12 @@ Actief beheerde fondsen (mutual funds) kun je gemakkelijk aankopen bij je bank.H
 
 Als je met 1000 euro start, dan heb je na 30 jaar een enorm verschil.
 
-<table class="table table-striped">
-  <thead>
-    <tr>
-      <th scope="col"></th>
-      <th scope="col">Index</th>
-      <th scope="col">Fonds</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Gemiddelde beheerskost</td>
-      <td>0,09%</td>
-      <td>0,82%</td>
-    </tr>
-    <tr>
-      <td>1000 euro geïnvesteerd met 7% gemiddelde winst na 30 jaar </td>
-      <td>€ 99 000</td>
-      <td>€ 86 000</td>
-    </tr>
-    <tr>
-      <td>Verloren winst aan beheerskosten </td>
-      <td>€ 1800</td>
-      <td>€ 15 000</td>
-    </tr>
-  </tbody>
-</table>
+{{< datatable table_class="table table-striped" >}}
+| #                                                         | Index    | Fonds    |
+|-----------------------------------------------------------|----------|----------|
+| Gemiddelde beheerskost                                    | 0,09%    | 0,82%    |
+| 1000 euro geïnvesteerd met 7% gemiddelde winst na 30 jaar | € 99 000 | € 86 000 |
+| Verloren winst aan beheerskosten                          | € 1800   | € 15 000 |
+{{< /datatable >}}
 
 Sommige mensen geloven dat de hoge kosten betekenen dat de financiële beheerders beter werk zullen leveren. Maar zoals we zien zijn het eerder de financiële managers die met een yacht naar hun werk varen dan hun klanten. Een index kopen is dus wenselijk als we het vergelijken met een traditioneel fonds met een hoge kostenverhouding.
