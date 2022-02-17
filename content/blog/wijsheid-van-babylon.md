@@ -1,8 +1,6 @@
 ---
 title: "De rijkste man van Babylon"
 description: "Zo'n 8000 jaar geleden ontstond in Babylonië voor het eerst een stad met ongekende rijkdom en luxe dat het reizigers aantrok van overal in de oude wereld. Omdat papier nog niet bestond werd alles op tabletten van klei genoteerd. Hierdoor kunnen we vandaag nog steeds lessen trekken uit de verhalen die onze voorouders ons achtergelaten hebben."
-date: 2022-01-30T18:11:56+01:00
-draft: true
 authors:
   - "Bert"
 banner: "img/content/blog/wijsheid-van-babylon/banner.jpg"
@@ -134,4 +132,18 @@ De Goden waren tevreden ons zo te laten doorgaan. Nu, eindelijk, zien we een lic
 
 # De Rijkste Man In Babylon
 
-Arkad
+In het mytische Babylon leefde ooit een schatrijke man, genaamd Arkad. Hij was wijd en zijd bekend om zijn enorme rijkdom. Ook stond hij bekend om zijn gulheid en liefdadigheid aan hulpbehoevenden. Arkad was vrijgevig in zijn eigen uitgaven, maar toch groeide zijn rijkdom elk jaar sneller dan hij uitgaf.
+
+En er waren vrienden uit zijn jonge jaren die naar hem toe kwamen en zeiden: "Jij, Arkad, bent gelukkiger dan wij. Jij bent de rijkste man van heel Babylon geworden, terwijl wij zwoegen om te overleven. Jij kunt de mooiste kleren dragen en je kunt genieten van het fijnste eten, terwijl wij ons tevreden moeten stellen met het feit dat wij ons gezin kunnen kleden in fatsoenlijke kleren en hen zo goed mogelijk te eten kunnen geven.
+
+"Toch waren we eens gelijk. We studeerden onder dezelfde meester. We speelden samen dezelfde spelletjes. En noch in de studies noch in de spelen heb je ons overtroffen. 
+En in de jaren daarna, ben je niet meer een goede burger geweest dan wij."
+
+"Noch heb je harder of loyaler gewerkt, voor zover wij kunnen zien. Waarom zou een wispelturig God u uitkiezen om van alle goede dingen van het leven te genieten en ons negeren die het evenzeer verdienen?"
+
+Daarop berispte Arkad hen en zei: Indien gij in de jaren, sedert wij jong waren, niet meer hebt verworven dan een blootsvoets bestaan, dan komt dat, ofwel omdat gij de rituelen niet hebt geleerd, die het vergaren van rijkdommen regelen, ofwel omdat gij ze niet in acht neemt.
+
+"Het wispelturige lot" is een valse godin die niemand blijvend goed doet. Integendeel, zij ruïneert bijna iedereen aan wie ze onverdiende goudstukken schenkt. Zij maakt achteloze beheerders, die al wat zij ontvangen spoedig verkwisten en  overvalt hen met begeerten en verlangens die zij niet meer kunnen bevredigen. 
+Weer anderen, die zij begunstigt, worden vrekkigen en hamsteren hun rijkdommen, bang om uit te geven wat zij hebben, wetende dat zij niet de mogelijkheid bezitten om het ooit weer te vervangen. Voorts worden zij achtervolgd door angst voor dieven en oplichters. Ze veroordelen zichzelf tot een leven van leegte en heimelijke ellende.
+
+p21
