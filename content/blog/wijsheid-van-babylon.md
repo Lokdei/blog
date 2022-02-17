@@ -146,4 +146,21 @@ Daarop berispte Arkad hen en zei: Indien gij in de jaren, sedert wij jong waren,
 "Het wispelturige lot" is een valse godin die niemand blijvend goed doet. Integendeel, zij ruïneert bijna iedereen aan wie ze onverdiende goudstukken schenkt. Zij maakt achteloze beheerders, die al wat zij ontvangen spoedig verkwisten en  overvalt hen met begeerten en verlangens die zij niet meer kunnen bevredigen. 
 Weer anderen, die zij begunstigt, worden vrekkigen en hamsteren hun rijkdommen, bang om uit te geven wat zij hebben, wetende dat zij niet de mogelijkheid bezitten om het ooit weer te vervangen. Voorts worden zij achtervolgd door angst voor dieven en oplichters. Ze veroordelen zichzelf tot een leven van leegte en heimelijke ellende.
 
-p21
+"Er zijn waarschijnlijk anderen, die onverdiend goud kunnen nemen. Het ook aanvullen en nog gelukkige en tevreden burgers blijven. Maar dat zijn er zo weinig, dat ik ze alleen van horen zeggen ken. Denkt u eens aan de mannen die plotseling rijkdom hebben geërfd, en kijkt u eens of dat niet zo is."
+
+Zijn vrienden gaven toe dat van de mannen die zij kenden die rijkdom hadden geërfd, deze uitspraken klopten. Zij smeekten Arkad hun uit te leggen hoe hij in het bezit van zoveel rijkdom was gekomen, en hij vervolgde: "In mijn jeugd keek ik om mij heen en zag al het goede dat er was om mij tevreden en gelukkig te maken. En ik besefte dat rijkdom de het vermogen had om deze zaken op te tillen naar nieuwe hoogtes. Rijkdom is een superkracht. Met rijkdom zijn veel dingen te bereiken." 
+
+Men kan het huis versieren met de mooiste meubels.  
+Men kan de verre zeeën bevaren.  
+Men kan smoefelen aan lekkernijen van verre landen.
+Men kan de sieraden kopen van de goudwerker en schone kunsten van de steenwerker. 
+Men kan zelfs grootste tempels laten bouwen voor de Goden.
+Men kan al deze dingen doen en nog veel meer die de ziel behagen.
+
+"En toen ik dit alles besefte, besloot ik dat ik mijn deel van de goede dingen van het leven zou opeisen. Ik zou niet een van diegenen zijn die op een afstand staan, jaloers kijkend hoe anderen genieten. Ik zou me niet tevreden stellen met enkel de goedkoopste kleding die er fatsoenlijk uitzag. Ik zou niet tevreden zijn met het lot van een arme man. Integendeel, ik zou mijzelf een gast maken bij dit feestmaal van goede zaken."
+
+"Omdat ik, zoals jullie weten, de zoon van een bescheiden koopman was. Opgegroeid uit een groot gezin met geen kans op een erfenis. Zoals jullie zo frank hebben gezegd, zonder superieure krachten of wijsheid, besloot ik dat, als ik wilde bereiken wat ik verlangde tijd en studie noodzakelijk zouden zijn."
+
+"Wat tijd betreft, die hebben alle mensen in overvloed. U, ieder van u, heeft voldoende tijd laten voorbijgaan om uzelf rijk te maken. Toch geeft u toe dat u hebt niets om dat te laten zien. Behalve uw goede families waarop u terecht trots kunt zijn.
+
+p22
