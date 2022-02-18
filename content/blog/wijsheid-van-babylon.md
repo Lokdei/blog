@@ -163,4 +163,22 @@ Men kan al deze dingen doen en nog veel meer die de ziel behagen.
 
 "Wat tijd betreft, die hebben alle mensen in overvloed. U, ieder van u, heeft voldoende tijd laten voorbijgaan om uzelf rijk te maken. Toch geeft u toe dat u hebt niets om dat te laten zien. Behalve uw goede families waarop u terecht trots kunt zijn.
 
-p22
+"Wat de studie betreft, heeft onze wijze leermeester ons niet uitgelegd dat er twee vormen van leren zijn: de eerste vorm is datgene wat we leren en weten perfectioneren en de andere vorm is de kunst die ons leert te weten te komen wat we niet weten?"
+
+"Daarom besloot ik uit te zoeken hoe men rijkdom kon vergaren en toen ik daarachter was gekomen, dit tot mijn doel te maken om het goed te doen. Is het niet verstandig dat wij genieten nu wij in de warmte van de zon vertoeven? Er zal genoeg ellende op ons neerdalen zodra wij vertrekken naar de duistere geestelijke wereld hierna. 
+
+Ik vond werk als schriftgeleerde in de archiefzaal en elke dag werkte ik lange uren aan de kleitabletten. Week na week en maand na maand werkte ik, maar voor mijn verdiensten had ik niets om te laten zien. Eten, kleding en boetedoening aan de goden, en nog andere dingen waarvan ik mij niet herinner wat, slokten al mijn inkomsten op. Maar mijn vastberadenheid liet mij niet los. 
+
+En op een dag kwam Algamish, de leenman, naar het huis van de stadsmeester en bestelde een exemplaar van de negende wet, en hij zei tegen mij: "Ik moet dit binnen twee dagen hebben, en als het werk voor die tijd klaar is zal ik u twee kopers geven."
+
+Dus ik werkte hard, maar de wettekst was lang en toen Algamish terugkwam was de taak nog niet af.
+
+Hij was boos en als ik zijn slaaf was geweest zou hij me zeker hebben geslagen. Maar omdat ik wist dat de stadsheer dat nooit zou toestaan had ik geen schrik, dus zei ik tegen hem: "Algamish, je bent een heel rijk man. Vertel me hoe ik ook rijk kan worden, en de hele nacht zal ik in de klei kerven en als de zon opkomt zal het voltooid zijn."
+
+Hij glimlachte naar me en antwoordde: 'Je bent een franke knaap, maar we zullen het een koopje noemen.'
+
+De hele nacht heb ik doorgewerkt, ook al deed mijn rug pijn en gaf de geur van kaarsen me hoofdpijn dat ik nauwelijks kon zien. Maar toen hij bij zonsopgang terugkwam waren de tabletten klaar.
+
+"Nu," zei ik, "vertel me wat je beloofd hebt.
+
+p23
