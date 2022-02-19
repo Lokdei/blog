@@ -132,53 +132,56 @@ De Goden waren tevreden ons zo te laten doorgaan. Nu, eindelijk, zien we een lic
 
 # De Rijkste Man In Babylon
 
-In het mytische Babylon leefde ooit een schatrijke man, genaamd Arkad. Hij was wijd en zijd bekend om zijn enorme rijkdom. Ook stond hij bekend om zijn gulheid en liefdadigheid aan hulpbehoevenden. Arkad was vrijgevig in zijn eigen uitgaven, maar toch groeide zijn rijkdom elk jaar sneller dan hij uitgaf.
+In het mytische Babylon leefde ooit een schatrijke man, genaamd Arkad. Hij was wijd en zijd bekend om zijn enorme rijkdom. Daarnaast was hij gul van karakter en liefdadig voor hulpbehoevenden. Arkad was vrijgevig in zijn eigen uitgaven, maar toch groeide zijn rijkdom elk jaar sneller dan hij uitgaf.
 
-En er waren vrienden uit zijn jonge jaren die naar hem toe kwamen en zeiden: "Jij, Arkad, bent gelukkiger dan wij. Jij bent de rijkste man van heel Babylon geworden, terwijl wij zwoegen om te overleven. Jij kunt de mooiste kleren dragen en je kunt genieten van het fijnste eten, terwijl wij ons tevreden moeten stellen met het feit dat wij ons gezin kunnen kleden in fatsoenlijke kleren en hen zo goed mogelijk te eten kunnen geven.
+En er waren vrienden uit zijn jonge jaren die naar hem toe kwamen en zeiden: "Jij, Arkad, bent gelukkiger dan ons. Jij bent de rijkste man van heel Babylon geworden, terwijl wij zwoegen om te overleven. Jij kunt de mooiste kleren dragen en je kunt genieten van het fijnste eten, terwijl wij ons tevreden moeten stellen met het feit dat wij ons gezin kunnen kleden in schappelijke kleren en hen zo goed mogelijk te eten kunnen geven.
 
-"Toch waren we eens gelijk. We studeerden onder dezelfde meester. We speelden samen dezelfde spelletjes. En noch in de studies noch in de spelen heb je ons overtroffen. 
-En in de jaren daarna, ben je niet meer een goede burger geweest dan wij."
+"Toch waren we eens gelijk. We studeerden onder dezelfde meester. We speelden samen dezelfde spelletjes. En noch in de studies noch in de spelen heb je ons overtroffen. En in de jaren daarna een even eerzame burger geweest als ons. 
 
-"Noch heb je harder of loyaler gewerkt, voor zover wij kunnen zien. Waarom zou een wispelturig God u uitkiezen om van alle goede dingen van het leven te genieten en ons negeren die het evenzeer verdienen?"
+"Noch heb je harder of loyaler gewerkt, voor zover wij kunnen zien. Waarom zou een wispelturig God u dan uitkiezen om van alle goede dingen des levens te genieten en ons negeren die het evengoed verdienen?
 
-Daarop berispte Arkad hen en zei: Indien gij in de jaren, sedert wij jong waren, niet meer hebt verworven dan een blootsvoets bestaan, dan komt dat, ofwel omdat gij de rituelen niet hebt geleerd, die het vergaren van rijkdommen regelen, ofwel omdat gij ze niet in acht neemt.
+Daarop berispte Arkad hen en zei: "Indien gij in de jaren sedert wij jong waren niet meer hebt verworven dan een blootsvoets bestaan, dan komt dat ofwel omdat gij de rituelen niet hebt geleerd die het vergaren van rijkdom regelen, ofwel omdat gij ze niet in acht neemt.
 
-"Het wispelturige lot" is een valse godin die niemand blijvend goed doet. Integendeel, zij ruïneert bijna iedereen aan wie ze onverdiende goudstukken schenkt. Zij maakt achteloze beheerders, die al wat zij ontvangen spoedig verkwisten en  overvalt hen met begeerten en verlangens die zij niet meer kunnen bevredigen. 
-Weer anderen, die zij begunstigt, worden vrekkigen en hamsteren hun rijkdommen, bang om uit te geven wat zij hebben, wetende dat zij niet de mogelijkheid bezitten om het ooit weer te vervangen. Voorts worden zij achtervolgd door angst voor dieven en oplichters. Ze veroordelen zichzelf tot een leven van leegte en heimelijke ellende.
+"Het wispelturige lot is een draaid gesponnen door een valse godin die niemand blijvend goed doet. Integendeel, zij ruïneert bijna ieder man aan wie ze onverdiende goudstukken schenkt. Zij maakt achteloze opzichters, die al wat zij ontvangen spoedig verkwisten, en overvalt hen met begeerten en verlangens die zij niet meer kunnen bevredigen. Weer anderen, die zij begunstigt, worden vrekkigen en hamsteren hun rijkdommen, bang om uit te geven wat zij hebben. Wetende dat zij niet de mogelijkheid bezitten om het ooit weer te vervangen. Voorts worden zij achtervolgd door angst voor dieven en oplichters. Ze veroordelen zichzelf tot een leven van leegte en heimelijke ellende.
 
-"Er zijn waarschijnlijk anderen, die onverdiend goud kunnen nemen. Het ook aanvullen en nog gelukkige en tevreden burgers blijven. Maar dat zijn er zo weinig, dat ik ze alleen van horen zeggen ken. Denkt u eens aan de mannen die plotseling rijkdom hebben geërfd, en kijkt u eens of dat niet zo is."
+"Er zijn waarschijnlijk anderen, die onverdiend goud kunnen nemen. Het ook aanvullen en nog gelukkige en tevreden burgers blijven. Maar dat zijn er zo weinig, dat ik ze alleen van horen zeggen ken. Denkt u eens aan de mannen die plotseling rijkdom hebben geërfd, en kijkt u eens of dat niet zo is.
 
-Zijn vrienden gaven toe dat van de mannen die zij kenden die rijkdom hadden geërfd, deze uitspraken klopten. Zij smeekten Arkad hun uit te leggen hoe hij in het bezit van zoveel rijkdom was gekomen, en hij vervolgde: "In mijn jeugd keek ik om mij heen en zag al het goede dat er was om mij tevreden en gelukkig te maken. En ik besefte dat rijkdom de het vermogen had om deze zaken op te tillen naar nieuwe hoogtes. Rijkdom is een superkracht. Met rijkdom zijn veel dingen te bereiken." 
+Zijn vrienden gaven toe dat van de mannen die zij kenden die rijkdom hadden geërfd, deze uitspraken klopten. Zij smeekten Arkad hun uit te leggen hoe hij in het bezit van zoveel rijkdom was gekomen, en hij vervolgde: "In mijn jeugd keek ik om mij heen en zag al het goede dat er was om mij tevreden en gelukkig te maken. En ik besefte dat rijkdom de het vermogen had om deze zaken op te tillen naar nieuwe hoogtes. Rijkdom is een superkracht. Met rijkdom zijn veel dingen te bereiken.
 
-Men kan het huis versieren met de mooiste meubels.  
-Men kan de verre zeeën bevaren.  
-Men kan smoefelen aan lekkernijen van verre landen.
-Men kan de sieraden kopen van de goudwerker en schone kunsten van de steenwerker. 
-Men kan zelfs grootste tempels laten bouwen voor de Goden.
-Men kan al deze dingen doen en nog veel meer die de ziel behagen.
+"Men kan het huis versieren met de mooiste meubels.  
+"Men kan de verre zeeën bevaren.  
+"Men kan smoefelen aan lekkernijen van verre landen.
+"Men kan de sieraden kopen van de goudwerker en schone kunsten van de steenwerker. 
+"Men kan zelfs grootste tempels laten bouwen voor de Goden.
+"Men kan al deze dingen doen en nog veel meer die de ziel behagen.
 
-"En toen ik dit alles besefte, besloot ik dat ik mijn deel van de goede dingen van het leven zou opeisen. Ik zou niet een van diegenen zijn die op een afstand staan, jaloers kijkend hoe anderen genieten. Ik zou me niet tevreden stellen met enkel de goedkoopste kleding die er fatsoenlijk uitzag. Ik zou niet tevreden zijn met het lot van een arme man. Integendeel, ik zou mijzelf een gast maken bij dit feestmaal van goede zaken."
+"En toen ik dit alles besefte, besloot ik dat ik mijn deel van de goede dingen van het leven zou opeisen. Ik zou niet een van diegenen zijn die op een afstand staan, jaloers kijkend hoe anderen genieten. Ik zou me niet tevreden stellen met enkel de goedkoopste kleding die er fatsoenlijk uitzag. Ik zou niet tevreden zijn met het lot van een arme man. Integendeel, ik zou mijzelf een gast maken bij dit feestmaal van goede zaken.
 
-"Omdat ik, zoals jullie weten, de zoon van een bescheiden koopman was. Opgegroeid uit een groot gezin met geen kans op een erfenis. Zoals jullie zo frank hebben gezegd, zonder superieure krachten of wijsheid, besloot ik dat, als ik wilde bereiken wat ik verlangde tijd en studie noodzakelijk zouden zijn."
+"Omdat ik, zoals jullie weten, de zoon van een bescheiden koopman was. Opgegroeid uit een groot gezin met geen kans op een erfenis. En geboren ben, zoals jullie zo frank hebben gezegd, zonder superieure krachten of wijsheid, besloot ik dat als ik wilde bereiken wat ik verlangde tijd en studie noodzakelijk zouden zijn.
 
-"Wat tijd betreft, die hebben alle mensen in overvloed. U, ieder van u, heeft voldoende tijd laten voorbijgaan om uzelf rijk te maken. Toch geeft u toe dat u hebt niets om dat te laten zien. Behalve uw goede families waarop u terecht trots kunt zijn.
+"Voor wat tijd betreft, die hebben alle mensen in overvloed. U, ieder van u, heeft voldoende tijd laten voorbijgaan om uzelf rijk te maken. Toch geeft u toe dat u niets hebt om dat te laten zien. Behalve uw goede families waarop u terecht trots kunt zijn.
 
-"Wat de studie betreft, heeft onze wijze leermeester ons niet uitgelegd dat er twee vormen van leren zijn: de eerste vorm is datgene wat we leren en weten perfectioneren en de andere vorm is de kunst die ons leert te weten te komen wat we niet weten?"
+"Voor wat de studie betreft, heeft onze wijze leermeester ons niet uitgelegd dat er twee vormen van leren zijn: de eerste vorm is datgene wat we leren en weten perfectioneren en de andere vorm is de kunst die ons leert te weten te komen wat we niet weten?"
 
-"Daarom besloot ik uit te zoeken hoe men rijkdom kon vergaren en toen ik daarachter was gekomen, dit tot mijn doel te maken om het goed te doen. Is het niet verstandig dat wij genieten nu wij in de warmte van de zon vertoeven? Er zal genoeg ellende op ons neerdalen zodra wij vertrekken naar de duistere geestelijke wereld hierna. 
+"Daarom besloot ik uit te zoeken hoe men rijkdom kon vergaren. En toen ik daarachter was gekomen, dit tot mijn doel te maken om het goed te doen. Is het niet verstandig dat wij genieten nu wij in de warmte van de zon vertoeven? Er zal genoeg ellende op ons neerdalen zodra wij vertrekken naar de duistere geestelijke wereld hierna. 
 
-Ik vond werk als schriftgeleerde in de archiefzaal en elke dag werkte ik lange uren aan de kleitabletten. Week na week en maand na maand werkte ik, maar voor mijn verdiensten had ik niets om te laten zien. Eten, kleding en boetedoening aan de goden, en nog andere dingen waarvan ik mij niet herinner wat, slokten al mijn inkomsten op. Maar mijn vastberadenheid liet mij niet los. 
+"Ik vond werk als schriftgeleerde in de archiefzaal en elke dag werkte ik lange uren aan de kleitabletten. Week na week en maand na maand werkte ik, maar voor mijn verdiensten had ik niets om te laten zien. Eten, kleding, offers aan de goden en nog andere dingen waarvan ik mij niet herinner wat, slokten al mijn inkomsten op. Maar mijn vastberadenheid liet mij niet los. 
 
-En op een dag kwam Algamish, de leenman, naar het huis van de stadsmeester en bestelde een exemplaar van de negende wet, en hij zei tegen mij: "Ik moet dit binnen twee dagen hebben, en als het werk voor die tijd klaar is zal ik u twee kopers geven."
+"En op een dag kwam Algamish, de leenman, naar het huis van de stadsmeester en bestelde een exemplaar van de negende wet, en hij zei tegen mij: 'Ik moet dit binnen twee dagen hebben, en als het werk voor die tijd klaar is zal ik u twee kopers geven.'
 
-Dus ik werkte hard, maar de wettekst was lang en toen Algamish terugkwam was de taak nog niet af.
+"Dus ik werkte hard, maar de wettekst was lang en toen Algamish terugkwam was de taak nog niet af.
 
-Hij was boos en als ik zijn slaaf was geweest zou hij me zeker hebben geslagen. Maar omdat ik wist dat de stadsheer dat nooit zou toestaan had ik geen schrik, dus zei ik tegen hem: "Algamish, je bent een heel rijk man. Vertel me hoe ik ook rijk kan worden, en de hele nacht zal ik in de klei kerven en als de zon opkomt zal het voltooid zijn."
+"Hij was boos en als ik zijn slaaf was geweest zou hij me zeker hebben geslagen. Maar omdat ik wist dat de stadsheer dat nooit zou toestaan had ik geen schrik, dus zei ik tegen hem: Algamish, je bent een heel rijk man. Vertel me hoe ik ook rijk kan worden, en de hele nacht zal ik in de klei kerven en als de zon opkomt zal het voltooid zijn.
 
-Hij glimlachte naar me en antwoordde: 'Je bent een franke knaap, maar we zullen het een koopje noemen.'
+"Hij glimlachte naar me en antwoordde: 'Je bent een franke knaap, maar we zullen het een koopje noemen.'
 
-De hele nacht heb ik doorgewerkt, ook al deed mijn rug pijn en gaf de geur van kaarsen me hoofdpijn dat ik nauwelijks kon zien. Maar toen hij bij zonsopgang terugkwam waren de tabletten klaar.
+"De hele nacht heb ik doorgewerkt, ook al deed mijn rug pijn en gaf de geur van kaarsen me hoofdpijn dat ik nauwelijks kon zien. Maar toen hij bij zonsopgang terugkwam waren de tabletten klaar.
 
-"Nu," zei ik, "vertel me wat je beloofd hebt.
+"Nu', zei ik, 'vertel me wat je beloofd hebt.'
 
-p23
+"Jij hebt jouw deel van onze afspraak vervuld," zei hij vriendelijk tegen mij, "en ik ben bereid het mijne te vervullen. Ik zal je de kennis toevertrouwen die je zoekt, want ik word een oude man en oude mannen hebben losse tongen. Wanneer de jeugd om raad komt vragen, krijgen ze de wijsheid van jaren mee. Maar al te vaak denkt de jeugd dat de aangereikte levenswijsheden niet meer toepasselijk zijn op hun tijd, en profiteert er dus niet van. Maar onthoud dit: de zon die vandaag schijnt, is de zon die scheen toen uw vader werd geboren, en die zal nog steeds schijnen als uw laatste kleinkind de geest zal laten.
+
+
+"De ideeën van de jeugd, vervolgde hij, zijn heldere flitsen die oplichten als de vallende sterren die hemel schitterend maken, maar levenswijsheid is als de vaste sterren die zo onveranderlijk stralen dat de zeeman erop kan vertrouwen om zijn koers te sturen.
+
+"Let goed op mijn woorden, want als u dat niet doet zult u de waarheid die ik u zal meedelen niet begrijpen en zult u denken dat uw nachtwerk voor niets is geweest.
