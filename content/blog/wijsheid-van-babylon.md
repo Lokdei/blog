@@ -167,7 +167,7 @@ Zijn vrienden gaven toe dat van de mannen die zij kenden die rijkdom hadden geë
 
 "Ik vond werk als schriftgeleerde in de archiefzaal en elke dag werkte ik lange uren aan de kleitabletten. Week na week en maand na maand werkte ik, maar voor mijn verdiensten had ik niets om te laten zien. Eten, kleding, offers aan de goden en nog andere dingen waarvan ik mij niet herinner wat, slokten al mijn inkomsten op. Maar mijn vastberadenheid liet mij niet los. 
 
-"En op een dag kwam Algamish, de leenman, naar het huis van de stadsmeester en bestelde een exemplaar van de negende wet, en hij zei tegen mij: 'Ik moet dit binnen twee dagen hebben, en als het werk voor die tijd klaar is zal ik u twee kopers geven.'
+"En op een dag kwam Algamish, de leenman, naar het huis van de stadsmeester en bestelde een exemplaar van de negende wet, en hij zei tegen mij: 'Ik moet dit binnen twee dagen hebben, en als het werk voor die tijd klaar is zal ik je twee kopers geven.'
 
 "Dus ik werkte hard, maar de wettekst was lang en toen Algamish terugkwam was de taak nog niet af.
 
@@ -181,7 +181,19 @@ Zijn vrienden gaven toe dat van de mannen die zij kenden die rijkdom hadden geë
 
 "Jij hebt jouw deel van onze afspraak vervuld," zei hij vriendelijk tegen mij, "en ik ben bereid het mijne te vervullen. Ik zal je de kennis toevertrouwen die je zoekt, want ik word een oude man en oude mannen hebben losse tongen. Wanneer de jeugd om raad komt vragen, krijgen ze de wijsheid van jaren mee. Maar al te vaak denkt de jeugd dat de aangereikte levenswijsheden niet meer toepasselijk zijn op hun tijd, en profiteert er dus niet van. Maar onthoud dit: de zon die vandaag schijnt, is de zon die scheen toen uw vader werd geboren, en die zal nog steeds schijnen als uw laatste kleinkind de geest zal laten.
 
-
 "De ideeën van de jeugd, vervolgde hij, zijn heldere flitsen die oplichten als de vallende sterren die hemel schitterend maken, maar levenswijsheid is als de vaste sterren die zo onveranderlijk stralen dat de zeeman erop kan vertrouwen om zijn koers te sturen.
 
-"Let goed op mijn woorden, want als u dat niet doet zult u de waarheid die ik u zal meedelen niet begrijpen en zult u denken dat uw nachtwerk voor niets is geweest.
+"Let goed op mijn woorden, want als je dat niet doet zal je de waarheid die ik je ga meedelen niet begrijpen en zal je denken dat uw nachtwerk voor niets is geweest.
+
+"Daarna keek hij me schrander aan van onder zijn ruige wenkbrauwen en zei op een lage, krachtige toon, 'Ik ontdenkte het pad naar rijkdom toen ik besloot dat ik een deel van alles wat ik verdiende moest behouden. En dat zal jij ook doen.'
+
+"Toen bleef hij me aankijken met een blik die ik voelde doordringen, maar hij zei niets meer.
+
+"Is dat alles?" vroeg ik.
+
+"Dat was voldoende om het hart van een schapenherder te veranderen in het hart van een leenman," antwoordde hij.
+
+"Maar is niet alles wat ik verdien voor mij om te houden?" Vroeg ik. 
+
+"Bijlange na niet!' antwoordde hij. 'Betaalt gij de klerenmaker niet? Betaalt gij den sandalenmaker niet? Betaalt gij niet voor wat gij eet? Kunt gij in Babylon leven zonder iets uit te geven? Wat hebt gij te tonen voor uw verdiensten van de afgelopen week, en het afgelopen jaar? Onnozelaar! Je betaalt aan iedereen behalve aan jezelf! Je werkt voor anderen, je kunt net zo goed een slaaf zijn en werken voor wat je meester je te eten en te kleden geeft. Als je toch een tiende van wat je verdient voor jezelf hield, hoeveel zou je dan hebben in tien jaar hebben?'
+
