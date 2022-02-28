@@ -197,3 +197,14 @@ Zijn vrienden gaven toe dat van de mannen die zij kenden die rijkdom hadden geë
 
 "Bijlange na niet!' antwoordde hij. 'Betaalt gij de klerenmaker niet? Betaalt gij den sandalenmaker niet? Betaalt gij niet voor wat gij eet? Kunt gij in Babylon leven zonder iets uit te geven? Wat hebt gij te tonen voor uw verdiensten van de afgelopen week, en het afgelopen jaar? Onnozelaar! Je betaalt aan iedereen behalve aan jezelf! Je werkt voor anderen, je kunt net zo goed een slaaf zijn en werken voor wat je meester je te eten en te kleden geeft. Als je toch een tiende van wat je verdient voor jezelf hield, hoeveel zou je dan hebben in tien jaar hebben?'
 
+"Mijn kennis van de getallen liet mij niet in de steek en ik antwoordde: 'Zoveel als ik in één jaar verdien.'
+
+"Je spreekt maar de halve waarheid," antwoordde hij. Elk goudstuk dat je spaart is een slaaf om voor je te werken. Elke koper die hij verdient is zijn kind dat ook voor jou kan verdienen. Als je rijk wilt worden dan moet wat je spaart verdienen, en zijn kinderen moeten verdienen, opdat alles kan helpen om je de overvloed te geven waarnaar je hunkert.
+
+"Je denkt dat ik je bedrieg voor je lange nachtwerk,' vervolgde hij, 'maar ik betaal je duizendmaal over als je het verstand hebt om de waarheid te vatten die ik je aanbied.
+
+"Een deel van alles wat je verdient is om voor jezelf te houden. Het mag niet minder dan een tiende zijn, hoe weinig je ook verdient. Het mag zoveel meer zijn als je kan veroorloven. Betaal eerst jezelf. Koop van de klerenmaker en de sandalenmaker niet meer dan je van de rest kunt betalen en budgetteer dat je nog genoeg hebt voor voedsel, liefdadigheid en offers aan de goden.
+
+"Rijkdom groeit, net als een boom, uit een klein zaadje. De eerste koper die je spaart is het zaadje waaruit je boom van rijkdom zal groeien. Hoe eerder je dat zaadje plant, hoe eerder de boom zal groeien. En hoe getrouwer je die boom voedt en water geeft met regelmatige spaargelden, hoe sneller je gelukkig zult zijn onder zijn schaduw.
+
+Met deze woorden nam hij zijn tabletten en vertrok.
