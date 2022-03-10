@@ -26,7 +26,7 @@ De tijd heeft de eens prachtige stad onder zand bedolven, maar de wijsheid van d
 >
 > Geld maakt het mogelijk te genieten van het beste wat de aarde te bieden heeft.  
 > 
-> Geld is in overvloed te vinden bij diegenen die de simpele terugkerende acties verstaan die het verdienen ervan regelen.
+> Geld is in overvloed te vinden bij diegenen die de simpele herhalende acties verstaan die het verdienen ervan regelen.
 >
 > Geld volgt vandaag dezelfde strategie voor de rijksten zoals die ooit deed voor de welvarende mannen in Babylon.
 {{< /insula >}}
@@ -208,3 +208,11 @@ Zijn vrienden gaven toe dat van de mannen die zij kenden die rijkdom hadden geë
 "Rijkdom groeit, net als een boom, uit een klein zaadje. De eerste koper die je spaart is het zaadje waaruit je boom van rijkdom zal groeien. Hoe eerder je dat zaadje plant, hoe eerder de boom zal groeien. En hoe getrouwer je die boom voedt en water geeft met regelmatige spaargelden, hoe sneller je gelukkig zult zijn onder zijn schaduw.
 
 Met deze woorden nam hij zijn tabletten en vertrok.
+
+"Vaak herhaalde ik zijn woorden in mijn hoofd, en wat hij zei leek me te kloppen. Daarop besliste ik om het zelf te proberen. Telkens ik betaald werd nam ik één van mijn tien koperstukken en stak ik het weg. Hoe raar het ook mag lijken kwam ik niet meer tekort. Ik merkte weinig verschil op en het lukte me om dit patroon te blijven volgen. Vaak werd ik verlijd, telkens mijn beurs begon te groeien, om het te spenderen aan de prachtige uitgestelde goederen van de verkopers xxxx
+
+"Na de twaalfde maand kwam Algamish terug en vroeg me, 'Jonker, heb je jezelf gedurende het jaar niet minder dan één tiende van al wat je verdiend hebt uitbetaald?
+
+"Met trots antwoorde ik, 'Ja heer, dat heb ik!' 'Goed zo,' antwoorde hij met een tevreden blik, 'en wat heb je er verder mee gedaan?'
+
+"Ik heb het gegeven aan Azmur, de metselaar, die me vertelde over zijn reis voorbij de verste zeeën. In Tyrus gaat hij voor me zeldzame juwelen kopen van de Feniciërs. Wanneer hij terugkomt kunnen we deze voor vele malen meer verkopen en verdelen we de winst. 
