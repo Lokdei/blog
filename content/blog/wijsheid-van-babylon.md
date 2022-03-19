@@ -26,7 +26,7 @@ De tijd heeft de eens prachtige stad onder zand bedolven, maar de wijsheid van d
 >
 > Geld maakt het mogelijk te genieten van het beste wat de aarde te bieden heeft.  
 > 
-> Geld is in overvloed te vinden bij diegenen die de simpele herhalende acties verstaan die het verdienen ervan regelen.
+> Geld is in overvloed te vinden bij diegenen die de simpele handelingen verstaan die het verdienen ervan regelen.
 >
 > Geld volgt vandaag dezelfde strategie voor de rijksten zoals die ooit deed voor de welvarende mannen in Babylon.
 {{< /insula >}}
@@ -108,7 +108,7 @@ Het is waar, Kobbi, ook al is het een onaangename gedachte. We willen niet jaar 
 
 "Nog vandaag," merkte Kobbi op, "passeerde ik onze oude vriend Arkad, rijdend in zijn gouden chariot. Ik moet zeggen dat hij niet over mijn nederige hoofd heen keek zoals velen in zijn stand dat zouden doen. In plaats daarvan zwaaide hij met zijn hand, zodat alle omstaanders hem mij konden zien groeten met een vrolijke glimlach. Een aandenken aan onze vriendschap.
 
-"Men beweert dat hij de rijkste man van heel Babylon is," mijmerde Bansir. "Zo rijk dat de koning zijn hulp zou zoeken in belangrijke kwesties in verband met de schatkist," antwoordde Kobbi. "Zo rijk," onderbrak Bansir, "dat ik vrees dat als ik hem in het donkerste van de nacht zou ontmoeten, ik zijn dikke beurs in handen zou nemen."
+"Men beweert dat hij de rijkste man van heel Babylon is," mijmerde Bansir. "Zo rijk dat de koning zijn hulp zou zoeken in belangrijke kwesties in verband met de schatkist," antwoordde Kobbi. "Zo rijk," onderbrak Bansir, "dat ik vrees dat als ik hem in het donkerste van de nacht zou ontmoeten ik zijn dikke beurs zou durven snijden.
 
 "Onzin," verweet Kobbi, "de rijkdom van een man zit niet in de beurs die hij draagt. Een dikke beurs raakt snel leeg als er geen bron is om hem te vullen. Arkad heeft een inkomen dat constant zijn beurs vult, hoe royaal hij ook uitgeeft."
 
@@ -132,19 +132,19 @@ De Goden waren tevreden ons zo te laten doorgaan. Nu, eindelijk, zien we een lic
 
 # De Rijkste Man In Babylon
 
-In het mytische Babylon leefde ooit een schatrijke man, genaamd Arkad. Hij was wijd en zijd bekend om zijn enorme rijkdom. Daarnaast was hij gul van karakter en liefdadig voor hulpbehoevenden. Arkad was vrijgevig in zijn eigen uitgaven, maar toch groeide zijn rijkdom elk jaar sneller dan hij uitgaf.
+In het mythische Babylon leefde ooit een schatrijke man, genaamd Arkad. Hij was wijd en zijd bekend om zijn enorme weelde. Daarnaast was hij gul van karakter en liefdadig voor hulpbehoevenden. Arkad was vrijgevig in zijn eigen uitgaven, maar toch groeide zijn rijkdom elk jaar sneller dan hij uitgaf.
 
 En er waren vrienden uit zijn jonge jaren die naar hem toe kwamen en zeiden: "Jij, Arkad, bent gelukkiger dan ons. Jij bent de rijkste man van heel Babylon geworden, terwijl wij zwoegen om te overleven. Jij kunt de mooiste kleren dragen en je kunt genieten van het fijnste eten, terwijl wij ons tevreden moeten stellen met het feit dat wij ons gezin kunnen kleden in schappelijke kleren en hen zo goed mogelijk te eten kunnen geven.
 
-"Toch waren we eens gelijk. We studeerden onder dezelfde meester. We speelden samen dezelfde spelletjes. En noch in de studies noch in de spelen heb je ons overtroffen. En in de jaren daarna een even eerzame burger geweest als ons. 
+"Toch waren we eens gelijk. We studeerden onder dezelfde meester. We speelden samen dezelfde spelletjes. En noch in de studies noch in de spelen heb je ons overtroffen. En in de jaren daarna ben je een even eerzame burger geweest als ons. 
 
 "Noch heb je harder of loyaler gewerkt, voor zover wij kunnen zien. Waarom zou een wispelturig God u dan uitkiezen om van alle goede dingen des levens te genieten en ons negeren die het evengoed verdienen?
 
-Daarop berispte Arkad hen en zei: "Indien gij in de jaren sedert wij jong waren niet meer hebt verworven dan een blootsvoets bestaan, dan komt dat ofwel omdat gij de rituelen niet hebt geleerd die het vergaren van rijkdom regelen, ofwel omdat gij ze niet in acht neemt.
+Daarop berispte Arkad hen en zei: "Indien gij in de jaren sedert wij jong waren niet meer hebt verworven dan een blootsvoets bestaan, dan komt dat ofwel omdat gij de handelingen niet hebt geleerd die het vergaren van rijkdom regelen, ofwel omdat gij ze niet in acht neemt.
 
-"Het wispelturige lot is een draaid gesponnen door een valse godin die niemand blijvend goed doet. Integendeel, zij ruïneert bijna ieder man aan wie ze onverdiende goudstukken schenkt. Zij maakt achteloze opzichters, die al wat zij ontvangen spoedig verkwisten, en overvalt hen met begeerten en verlangens die zij niet meer kunnen bevredigen. Weer anderen, die zij begunstigt, worden vrekkigen en hamsteren hun rijkdommen, bang om uit te geven wat zij hebben. Wetende dat zij niet de mogelijkheid bezitten om het ooit weer te vervangen. Voorts worden zij achtervolgd door angst voor dieven en oplichters. Ze veroordelen zichzelf tot een leven van leegte en heimelijke ellende.
+"Het wispelturige lot is een draad gesponnen door een valse Godin die niemand blijvend goed doet. Integendeel, zij ruïneert bijna ieder man aan wie ze onverdiende goudstukken schenkt. Zij maakt achteloze opzichters, die al wat zij ontvangen spoedig verkwisten, en overvalt hen met begeerten en verlangens die zij nadien niet meer kunnen bevredigen. Weer anderen, die zij begunstigt, worden vrekkigen en hamsteren hun rijkdom, bang om uit te geven wat zij hebben draaien ze elk dubbeltje drie keer om. Wetende dat zij niet de mogelijkheid bezitten om het ooit weer te vervangen. Voorts worden zij achtervolgd door angst voor dieven en oplichters. Ze veroordelen zichzelf tot een leven van leegte en heimelijke ellende.
 
-"Er zijn waarschijnlijk anderen, die onverdiend goud kunnen nemen. Het ook aanvullen en nog gelukkige en tevreden burgers blijven. Maar dat zijn er zo weinig, dat ik ze alleen van horen zeggen ken. Denkt u eens aan de mannen die plotseling rijkdom hebben geërfd, en kijkt u eens of dat niet zo is.
+"Er zijn waarschijnlijk anderen, die onverdiend goud kunnen nemen, het ook aanvullen en nog gelukkige, tevreden burgers blijven. Maar dat zijn er zo weinig, dat ik ze alleen van horen zeggen ken. Denkt u eens aan de mannen en vrouwen die plotseling rijkdom hebben geërfd, en kijkt u eens of dat niet zo is.
 
 Zijn vrienden gaven toe dat van de mannen die zij kenden die rijkdom hadden geërfd, deze uitspraken klopten. Zij smeekten Arkad hun uit te leggen hoe hij in het bezit van zoveel rijkdom was gekomen, en hij vervolgde: "In mijn jeugd keek ik om mij heen en zag al het goede dat er was om mij tevreden en gelukkig te maken. En ik besefte dat rijkdom de het vermogen had om deze zaken op te tillen naar nieuwe hoogtes. Rijkdom is een superkracht. Met rijkdom zijn veel dingen te bereiken.
 
@@ -157,13 +157,13 @@ Zijn vrienden gaven toe dat van de mannen die zij kenden die rijkdom hadden geë
 
 "En toen ik dit alles besefte, besloot ik dat ik mijn deel van de goede dingen van het leven zou opeisen. Ik zou niet een van diegenen zijn die op een afstand staan, jaloers kijkend hoe anderen genieten. Ik zou me niet tevreden stellen met enkel de goedkoopste kleding die er fatsoenlijk uitzag. Ik zou niet tevreden zijn met het lot van een arme man. Integendeel, ik zou mijzelf een gast maken bij dit feestmaal van goede zaken.
 
-"Omdat ik, zoals jullie weten, de zoon van een bescheiden koopman was. Opgegroeid uit een groot gezin met geen kans op een erfenis. En geboren ben, zoals jullie zo frank hebben gezegd, zonder superieure krachten of wijsheid, besloot ik dat als ik wilde bereiken wat ik verlangde tijd en studie noodzakelijk zouden zijn.
+"Omdat ik, zoals jullie weten, de zoon van een bescheiden koopman was. Opgegroeid uit een groot gezin met geen kans op zelf een schamele erfenis. En geboren ben, zoals jullie zo frank hebben gezegd, zonder superieure ruggengraat of wijsheid, besloot ik dat als ik wilde bereiken wat ik verlangde, tijd en studie noodzakelijk zouden zijn.
 
 "Voor wat tijd betreft, die hebben alle mensen in overvloed. U, ieder van u, heeft voldoende tijd laten voorbijgaan om uzelf rijk te maken. Toch geeft u toe dat u niets hebt om dat te laten zien. Behalve uw goede families waarop u terecht trots kunt zijn.
 
 "Voor wat de studie betreft, heeft onze wijze leermeester ons niet uitgelegd dat er twee vormen van leren zijn: de eerste vorm is datgene wat we leren en weten perfectioneren en de andere vorm is de kunst die ons leert te weten te komen wat we niet weten?"
 
-"Daarom besloot ik uit te zoeken hoe men rijkdom kon vergaren. En toen ik daarachter was gekomen, dit tot mijn doel te maken om het goed te doen. Is het niet verstandig dat wij genieten nu wij in de warmte van de zon vertoeven? Er zal genoeg ellende op ons neerdalen zodra wij vertrekken naar de duistere geestelijke wereld hierna. 
+"Daarom besloot ik om uit te zoeken hoe men rijkdom kon vergaren. En toen ik daarachter was gekomen, maakte ik er mijn doel van om dit opperbest te doen. Is het niet verstandig dat wij genieten nu wij in de warmte van de zon vertoeven? Er zal genoeg ellende op ons neerdalen zodra wij vertrekken naar de duistere geestelijke wereld hierna. 
 
 "Ik vond werk als schriftgeleerde in de archiefzaal en elke dag werkte ik lange uren aan de kleitabletten. Week na week en maand na maand werkte ik, maar voor mijn verdiensten had ik niets om te laten zien. Eten, kleding, offers aan de goden en nog andere dingen waarvan ik mij niet herinner wat, slokten al mijn inkomsten op. Maar mijn vastberadenheid liet mij niet los. 
 
@@ -175,44 +175,52 @@ Zijn vrienden gaven toe dat van de mannen die zij kenden die rijkdom hadden geë
 
 "Hij glimlachte naar me en antwoordde: 'Je bent een franke knaap, maar we zullen het een koopje noemen.'
 
-"De hele nacht heb ik doorgewerkt, ook al deed mijn rug pijn en gaf de geur van kaarsen me hoofdpijn dat ik nauwelijks kon zien. Maar toen hij bij zonsopgang terugkwam waren de tabletten klaar.
+"De hele nacht heb ik doorgewerkt, ook al deed mijn rug pijn en had ik zo’n last van de walm van kaarsen dat ik nauwelijks nog kon zien. Maar toen hij bij zonsopgang terugkwam waren de tabletten klaar.
 
 "Nu', zei ik, 'vertel me wat je beloofd hebt.'
 
-"Jij hebt jouw deel van onze afspraak vervuld," zei hij vriendelijk tegen mij, "en ik ben bereid het mijne te vervullen. Ik zal je de kennis toevertrouwen die je zoekt, want ik word een oude man en oude mannen hebben losse tongen. Wanneer de jeugd om raad komt vragen, krijgen ze de wijsheid van jaren mee. Maar al te vaak denkt de jeugd dat de aangereikte levenswijsheden niet meer toepasselijk zijn op hun tijd, en profiteert er dus niet van. Maar onthoud dit: de zon die vandaag schijnt, is de zon die scheen toen uw vader werd geboren, en die zal nog steeds schijnen als uw laatste kleinkind de geest zal laten.
+"Jij hebt jouw deel van onze afspraak vervuld," zei hij goedgunstig tegen mij, "en ik ben bereid het mijne te vervullen. Ik zal je de kennis toevertrouwen die je zoekt, want ik word een oude man en oude mannen hebben losse tongen. Wanneer de jeugd om raad komt vragen, krijgen ze de wijsheid van jaren mee. Maar al te vaak denkt de jeugd dat de aangereikte levenswijsheden niet meer toepasselijk zijn op hun tijd, en profiteert er dus niet van. Maar onthoud dit: de zon die vandaag schijnt, is de zon die scheen toen uw vader werd geboren, en die zal nog steeds schijnen als uw laatste kleinkind de geest zal laten.
 
 "De ideeën van de jeugd, vervolgde hij, zijn heldere flitsen die oplichten als de vallende sterren die hemel schitterend maken, maar levenswijsheid is als de vaste sterren die zo onveranderlijk stralen dat de zeeman erop kan vertrouwen om zijn koers te sturen.
 
-"Let goed op mijn woorden, want als je dat niet doet zal je de waarheid die ik je ga meedelen niet begrijpen en zal je denken dat uw nachtwerk voor niets is geweest.
+"Let goed op mijn woorden, want als je dat niet doet zal je de kennis die ik je ga meedelen niet begrijpen en zal je denken dat uw nachtwerk voor niets is geweest.
 
-"Daarna keek hij me schrander aan van onder zijn ruige wenkbrauwen en zei op een lage, krachtige toon, 'Ik ontdenkte het pad naar rijkdom toen ik besloot dat ik een deel van alles wat ik verdiende moest behouden. En dat zal jij ook doen.'
+"Daarna keek hij me schrander aan van onder zijn ruige wenkbrauwen en zei op een lage, krachtige toon, 
+
+'Ik ontdekte het pad naar rijkdom toen ik besloot dat ik een deel van alles wat ik verdiende moest behouden. En dat zal jij ook doen.'
+
+{{< blockquote author="Algamish" source="The Richest Man In Babylon" >}}
+  I found the road to wealth when I decided that a part of all I earned was mine to keep.
+{{< /blockquote >}}
 
 "Toen bleef hij me aankijken met een blik die ik voelde doordringen, maar hij zei niets meer.
 
 "Is dat alles?" vroeg ik.
 
-"Dat was voldoende om het hart van een schapenherder te veranderen in het hart van een leenman," antwoordde hij.
+"Dat was voldoende om het hart van een herder te veranderen in het hart van een leenman," antwoordde hij.
 
 "Maar is niet alles wat ik verdien voor mij om te houden?" Vroeg ik. 
 
-"Bijlange na niet!' antwoordde hij. 'Betaalt gij de klerenmaker niet? Betaalt gij den sandalenmaker niet? Betaalt gij niet voor wat gij eet? Kunt gij in Babylon leven zonder iets uit te geven? Wat hebt gij te tonen voor uw verdiensten van de afgelopen week, en het afgelopen jaar? Onnozelaar! Je betaalt aan iedereen behalve aan jezelf! Je werkt voor anderen, je kunt net zo goed een slaaf zijn en werken voor wat je meester je te eten en te kleden geeft. Als je toch een tiende van wat je verdient voor jezelf hield, hoeveel zou je dan hebben in tien jaar hebben?'
+"Bijlange na niet!' antwoordde hij. 'Betaal je de kleermaker niet? Betaal je de sandaalmaker niet? Betaal je niet voor wat gij eet? Kun jij in Babylon leven zonder iets uit te geven? Wat hebt jij te tonen voor uw verdiensten van de afgelopen week, en het afgelopen jaar? Onnozelaar! Je betaalt iedereen behalve jezelf! Je werkt voltijds voor anderen, je kunt net zo goed een slaaf zijn en werken voor wat je meester je te eten en te kleden geeft. Als je toch een tiende van wat je verdient voor jezelf hield, hoeveel zou je dan hebben in tien jaar hebben?'
 
 "Mijn kennis van de getallen liet mij niet in de steek en ik antwoordde: 'Zoveel als ik in één jaar verdien.'
 
-"Je spreekt maar de halve waarheid," antwoordde hij. Elk goudstuk dat je spaart is een slaaf om voor je te werken. Elke koper die hij verdient is zijn kind dat ook voor jou kan verdienen. Als je rijk wilt worden dan moet wat je spaart verdienen, en zijn kinderen moeten verdienen, opdat alles kan helpen om je de overvloed te geven waarnaar je hunkert.
+"Je spreekt maar de halve waarheid," antwoordde hij. Elk goudstuk dat je spaart is een nieuwe gewillige slaaf om voor je te werken. Elke koper die hij verdient is zijn kind dat ook voor jou kan verdienen. Als je rijk wilt worden dan moet wat je spaart verdienen, en zijn kinderen moeten verdienen, opdat alles kan helpen om je de overvloed te geven waarnaar je streeft.
 
-"Je denkt dat ik je bedrieg voor je lange nachtwerk,' vervolgde hij, 'maar ik betaal je duizendmaal over als je het verstand hebt om de waarheid te vatten die ik je aanbied.
+"Je denkt dat ik je bedrieg voor je lange nachtwerk,' vervolgde hij, 'maar ik betaal je duizendmaal over als je het verstand hebt om de kennis te vatten die ik je aanbied.
 
-"Een deel van alles wat je verdient is om voor jezelf te houden. Het mag niet minder dan een tiende zijn, hoe weinig je ook verdient. Het mag zoveel meer zijn als je kan veroorloven. Betaal eerst jezelf. Koop van de klerenmaker en de sandalenmaker niet meer dan je van de rest kunt betalen en budgetteer dat je nog genoeg hebt voor voedsel, liefdadigheid en offers aan de goden.
+"Een deel van alles wat je verdient is om voor jezelf te houden. Het mag niet minder dan een tiende zijn, hoe weinig je ook verdient. Het mag zoveel meer zijn als je kan veroorloven. Betaal eerst jezelf. Koop van de kleermaker en de sandaalmaker niet meer dan je van de rest kunt betalen en budgetteer dat je nog genoeg hebt voor voedsel, liefdadigheid en offers aan de goden.
 
-"Rijkdom groeit, net als een boom, uit een klein zaadje. De eerste koper die je spaart is het zaadje waaruit je boom van rijkdom zal groeien. Hoe eerder je dat zaadje plant, hoe eerder de boom zal groeien. En hoe getrouwer je die boom voedt en water geeft met regelmatige spaargelden, hoe sneller je gelukkig zult zijn onder zijn schaduw.
+"Rijkdom groeit, net als een boom, uit een klein zaadje. De eerste koper die je spaart is het zaadje waaruit je boom van rijkdom zal groeien. Hoe eerder je dat zaadje plant, hoe eerder de boom zal groeien. En hoe getrouwer je die boom voedt en water geeft met regelmatige bijdrages, hoe sneller je gelukkig zult zijn onder zijn schaduw.
 
 Met deze woorden nam hij zijn tabletten en vertrok.
 
-"Vaak herhaalde ik zijn woorden in mijn hoofd, en wat hij zei leek me te kloppen. Daarop besliste ik om het zelf te proberen. Telkens ik betaald werd nam ik één van mijn tien koperstukken en stak ik het weg. Hoe raar het ook mag lijken kwam ik niet meer tekort. Ik merkte weinig verschil op en het lukte me om dit patroon te blijven volgen. Vaak werd ik verlijd, telkens mijn beurs begon te groeien, om het te spenderen aan de prachtige uitgestelde goederen van de verkopers xxxx
+"Vaak herhaalde ik zijn woorden in mijn hoofd, en wat hij zei leek me te kloppen. Daarop besliste ik om het zelf te proberen. Telkens ik betaald werd nam ik één van mijn tien koperstukken en stak ik het weg. Hoe raar het ook mag lijken kwam ik niet meer tekort. Ik merkte weinig verschil op en het lukte me om dit stramien te blijven volgen. Vaak werd ik verlijd, telkens mijn beurs begon te groeien, om het te spenderen aan de prachtig uitgestalde goederen van de verkopers xxxx
 
 "Na de twaalfde maand kwam Algamish terug en vroeg me, 'Jonker, heb je jezelf gedurende het jaar niet minder dan één tiende van al wat je verdiend hebt uitbetaald?
 
-"Met trots antwoorde ik, 'Ja heer, dat heb ik!' 'Goed zo,' antwoorde hij met een tevreden blik, 'en wat heb je er verder mee gedaan?'
+"Met trots antwoordde ik, 'Ja heer, dat heb ik!' 'Goed zo,' zei hij met een tevreden blik, 'en wat heb je er verder mee gedaan?'
 
 "Ik heb het gegeven aan Azmur, de metselaar, die me vertelde over zijn reis voorbij de verste zeeën. In Tyrus gaat hij voor me zeldzame juwelen kopen van de Feniciërs. Wanneer hij terugkomt kunnen we deze voor vele malen meer verkopen en verdelen we de winst. 
+
+Met het ambt komt het verstand
