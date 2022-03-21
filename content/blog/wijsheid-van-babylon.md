@@ -42,7 +42,7 @@ Niettemin zat zijn dikke, gespierde lichaam stijf tegen de muur. Zijn trage gees
 
 De hete, tropische zon, kenmerkend voor deze vallei van de Eufraat, sloeg genadeloos op hem neer. Zweetdruppels vormden zich op zijn voorhoofd en druppelden ongemerkt naar beneden om zich te verliezen in de harige jungle op zijn borst.
 
-Achter zijn huis torende de hoge met versieringen bezette muur rond het paleis van de koning. Niet veel verder stond stond de beschilderde toren van de Tempel van Bel, deze was zo hoog dat het de hemel in twee splijtte. In de schaduw van deze grandeur stond zijn nederig huis en vele andere armzalige, minder goed onderhouden woningen.
+Achter zijn huis torende de hoge met versieringen bezette muur rond het paleis van de koning. Niet veel verder stond stond de beschilderde toren van de Tempel van Bel, deze was zo hoog dat het de hemel in twee scheidde. In de schaduw van deze grandeur stond zijn nederig huis en vele andere armzalige, minder goed onderhouden woningen.
 Dit was een typisch beeld van Babylon, een mengeling van grootsheid en ellende, van duizelingwekkende rijkdom en schrijnende armoede, verspreid zonder bepaald plan of systeem binnen de beschermende muren van de stad.
 
 Achter hem, als hij zich had willen omdraaien en kijken, verdrongen de rijken met hun luidruchtige wagens de in sandalen geklede handelaars en blootvoetse bedelaars. Maar zelfs de rijken moesten zich naar de goten wenden om de weg vrij te maken voor de lange rijen slaafse waterdragers die "in opdracht van de koning", elk een zware geitenzak gevuld met water droegen om de beroemde hangtuinen te begieten.
@@ -57,19 +57,20 @@ Bansir was te verdiept in zijn eigen gedachten om het warrige geroezemoes van de
 >}}
 
 "Mogen de Goden u zegenen met grote gulheid, mijn goede vriend," begon Kobbi met een uitgebreide begroeting. "Toch lijkt het erop dat ze al zo vrijgevig zijn geweest dat je niet hoeft te werken.
+
 Het doet me genoegen je met zoveel voorspoed aan te treffen. Meer nog, je zou mij plezier doen als ik in je geluk mocht delen. Alstublieft, wil je uit je beurs, die moet uitpuilen - want anders zou je nog bezig zijn in uw winkel - twee nederige duiten nemen om ze aan mij uit te lenen tot na het feest van de edelen hedenavond? Jij zal ze niet missen voordat zij worden teruggegeven."
 
 "Als ik twee duiten had," antwoordde Bansir somber, "zou ik ze aan niemand kunnen uitlenen, zelfs niet aan jou, mijn beste vriend, want ze zouden mijn fortuin zijn, mijn hele fortuin. Niemand leent zijn hele fortuin uit, zelfs niet aan zijn beste vriend."
 
-"Wat," riep Kobbi uit met oprechte verbazing, "Gij hebt niet één duit in je beurs, en toch zit je als een standbeeld op een muur! Waarom maakt gij die wagen niet verder af? Hoe kan je anders voorzien in uw nobele eetlust? Dat is niets voor jou, mijn vriend. Waar is je eindeloze energie? Is er iets dat je verontrust? Hebben de Goden je met problemen opgezadeld?"
+"Wat," riep Kobbi uit met oprechte verbazing, "Gij hebt niet één duit in je beurs, en toch zit je als een standbeeld op een muur! Waarom maak je die wagen niet verder af? Hoe kan je anders voorzien in je gezonde eetlust? Dat is niets voor jou, mijn vriend. Waar is je eindeloze energie? Is er iets dat je verontrust? Hebben de Goden je met problemen opgezadeld?"
 
-"Een kwelling van de Goden moet het zijn," beaamde Bansir. "Het begon met een droom, een zinloze droom, waarin ik dacht dat ik een man van hoge stand was. Aan mijn riem hing een knappe beurs, zwaar van munten. Er waren duiten die ik met achteloze vrijheid uitdeelde aan de bedelaars; er waren zilverstukken waarmee ik sieraden kocht voor mijn vrouw en wat ik maar wenste voor mijzelf; er waren goudstukken die mij verzekerd lieten voelen over de toekomst en mij mijn vrees wegnamen om mijn zilvers te spenderen. Een heerlijk gevoel van tevredenheid gaf dat me! Gij zoudt mij niet gekend hebben als uw hardwerkende vriend. Noch zou gij mijn vrouw hebben gekend, haar gezicht met juwelen gezegend en stralend van geluk. Zij was weer de lachende jongedame van onze eerste huwelijksdagen."
+"Een kwelling van de Goden moet het zijn," beaamde Bansir. "Het begon met een droom, een zinloze droom, waarin ik dacht dat ik een man van hoge stand was. Aan mijn riem hing een knappe beurs, zwaar van munten. Er waren duiten die ik met achteloze vrijheid uitdeelde aan de bedelaars; er waren zilverstukken waarmee ik sieraden kocht voor mijn vrouw en wat ik maar wenste voor mijzelf; er waren goudstukken die mij verzekerd lieten voelen over de toekomst en mij mijn vrees wegnamen om mijn zilvers te spenderen. Een heerlijk gevoel van tevredenheid gaf dat me! Gij zoudt mij niet gekend hebben als uw hardwerkende vriend. Noch zou gij mijn vrouw hebben gekend, haar gezicht met juwelen gezegend en stralend van geluk. Zij was weer de lachende juffer van onze eerste huwelijksdagen."
 
-"Dat is inderdaad een aangename droom," merkte Kobbi op, "maar waarom zouden zulke aangename gevoelens u veranderen in een somber standbeeld aan de muur?"
+"Dat is inderdaad een aangename droom," merkte Kobbi op, "maar waarom zouden zulke aangename gevoelens je veranderen in een somber standbeeld aan de muur?"
 
 "Inderdaad, waarom?! Want toen ik wakker werd en me herinnerde hoe leeg mijn beurs was, overviel me een bitter gevoel. Laten we er samen over praten, want, zoals de zeelui zeggen, wij tweeën zitten in hetzelfde schuitje. Als jongelui gingen we samen naar school waar de priesters om leerden wijze mannen te worden. Als jonge knapen deelden we in elkaars genot. En als volwassen mannen zijn we altijd goede vrienden geweest. We waren gelukkige onderdanen van onze klasse. We hebben lang kunnen werken en onze verdiensten vrij kunnen besteden. We hebben veel geld verdiend in de voorbije jaren, maar om de vreugde van rijkdom te kennen, moeten we erover dromen. Bah! Zijn wij niet meer dan domme schapen? We leven in de rijkste stad van de hele wereld. De reizigers zeggen dat niemand haar in rijkdom evenaart.
 
-Rondom ons wordt er veel gepronkt met luxe en rijkdom, maar we hebben er zelf niets van. Na een half leven hard werken, hebt gij, mijn beste vriend, een lege beurs en zegt tot mij: "Mag ik zo'n kleinigheid als twee duiten lenen tot na het feest van de edelen deze nacht?" Wat moet ik dan antwoorden? Zeg ik: "Hier is mijn beurs; de inhoud zal ik gaarne delen? Nee, ik geef toe dat mijn beurs net zo leeg is als de uwe. Wat is er aan de hand? Waarom kunnen wij geen zilver en goud verkrijgen, meer dan genoeg voor voedsel en kleding? Wat is er gaande? Waarom kunnen wij geen zilvers er goudstukken bemachtigen, meer dan genoeg voor voedsel en kleding?
+Rondom ons wordt er veel gepronkt met luxe en rijkdom, maar we hebben er zelf niets van. Na een half leven hard werken, hebt gij, mijn beste vriend, een lege beurs en zegt tot mij: "Mag ik zo'n kleinigheid als twee duiten lenen tot na het feest van de edelen deze nacht?" Wat moet ik dan antwoorden? Zeg ik: "Hier is mijn beurs; de inhoud zal ik gaarne delen? Nee, ik geef toe dat mijn beurs net zo leeg is als de jouwe. Wat is er aan de hand? Waarom kunnen wij geen zilver en goud verkrijgen, meer dan genoeg voor voedsel en kleding? Wat is er gaande? Waarom kunnen wij geen zilvers er goudstukken bemachtigen, meer dan genoeg voor voedsel en kleding?
 
 {{< figure 
   src="/img/content/blog/wijsheid-van-babylon/problemen.jpg" 
@@ -84,7 +85,7 @@ Rondom ons wordt er veel gepronkt met luxe en rijkdom, maar we hebben er zelf ni
 
 "Nog nooit in al die jaren heb ik er zo over gedacht. Van 's morgens vroeg tot de duisternis me tegenhield heb ik gewerkt om de beste strijdwagens te bouwen die een mens kon maken, in de hoop dat de Goden op een dag mijn waardige daden zouden erkennen en mij grote voorspoed zouden schenken. Dit hebben ze nooit gedaan. Eindelijk realiseer ik me dat ze dit nooit zullen doen. Daarom is mijn hart bedroefd. Ik zou graag een man van welstand zijn. Ik wil land en vee bezitten, mooie gewaden omdoen en munten in mijn beurs hebben. Ik ben bereid daarvoor te werken met al de kracht in mijn rug, met al de vaardigheid in mijn handen, met al de wijsheid in mijn geest, maar ik wil dat mijn werk eerlijk beloond wordt. Wat is er met ons aan de hand?
 
-Ik vraag het u opnieuw! Waarom krijgen wij niet de vruchten des levens, die er in overvloed zijn voor zij die het goud hebben om ze te kopen?
+Ik vraag het je opnieuw! Waarom krijgen wij niet de vruchten des levens, die er in overvloed zijn voor zij die het goud hebben om ze te kopen?
 
 "Ik versta het ook niet!" antwoordde Kobbi. "Niet beter dan gij ben ik tevreden.
 
@@ -96,9 +97,9 @@ Hij wees naar de lange rij halfnaakte, zwetende waterdragers die moeizaam de sma
 
 "Een keurige heer, hij die hen leidt." Kobbi wees naar de drager van de bel die zonder last voorop marcheerde. "Een vooraanstaand man in zijn eigen land, dat is gemakkelijk te zien."
 
-"Er zijn veel knappe figuren in de rij," beaamde Bansir, "even knap als ons. Lange, blonde mannen uit het noorden, lachende zwarte mannen uit het zuiden, kleine bruine mannen uit de dichterbij gelegen landen. Allemaal marcheren ze samen van de rivier naar de tuinen, heen en weer, dag na dag, jaar na jaar. Niets van geluk om naar uit te kijken. Met bedden van stro om op te slapen en mout om te eten. Heb medelijden met de arme beesten, Kobbi!"
+"Er zijn veel knappe figuren in de rij," beaamde Bansir, "even knap als ons. Lange, blonde mannen uit het noorden, lachende zwarte mannen uit het zuiden, kleine bruine mannen uit de dichterbij gelegen landen. Allemaal marcheren ze samen van de rivier naar de tuinen, heen en weer, dag na dag, jaar na jaar. Niets van geluk om naar uit te kijken. Met bedden van stro om op te slapen en mout om te eten. Heb medelijden met de onfortuinlijke bruten, Kobbi!"
 
-Medelijden krijgen ze. Maar toch, je toont me hoe wij het maar een beetje beter af hebben. Wij kunnen onszelf nog juist vrij noemen.
+Medelijden krijgen ze. Maar toch, je toont me hoe wij het maar een beetje beter af hebben. Wij kunnen onszelf nog juist vrije mannen noemen.
 
 Het is waar, Kobbi, ook al is het een onaangename gedachte. We willen niet jaar na jaar slaafs verder leven. Werken, werken, werken! En nergens komen."
 
@@ -106,17 +107,17 @@ Het is waar, Kobbi, ook al is het een onaangename gedachte. We willen niet jaar 
 
 "Misschien is er een geheim dat we te weten kunnen komen als we het maar vragen aan hen die het weten," antwoordde Bansir bedachtzaam.
 
-"Nog vandaag," merkte Kobbi op, "passeerde ik onze oude vriend Arkad, rijdend in zijn gouden chariot. Ik moet zeggen dat hij niet over mijn nederige hoofd heen keek zoals velen in zijn stand dat zouden doen. In plaats daarvan zwaaide hij met zijn hand, zodat alle omstaanders hem mij konden zien groeten met een vrolijke glimlach. Een aandenken aan onze vriendschap.
+"Nog vandaag," merkte Kobbi op, "passeerde ik onze oude vriend Arkad, rijdend in zijn met goud bezette chariot. Ik moet zeggen dat hij niet over mijn nederige hoofd heen keek zoals velen in zijn stand dat zouden doen. In plaats daarvan zwaaide hij met zijn hand, zodat alle omstaanders hem mij konden zien groeten met een vrolijke glimlach. Een aandenken aan onze vriendschap.
 
 "Men beweert dat hij de rijkste man van heel Babylon is," mijmerde Bansir. "Zo rijk dat de koning zijn hulp zou zoeken in belangrijke kwesties in verband met de schatkist," antwoordde Kobbi. "Zo rijk," onderbrak Bansir, "dat ik vrees dat als ik hem in het donkerste van de nacht zou ontmoeten ik zijn dikke beurs zou durven snijden.
 
 "Onzin," verweet Kobbi, "de rijkdom van een man zit niet in de beurs die hij draagt. Een dikke beurs raakt snel leeg als er geen bron is om hem te vullen. Arkad heeft een inkomen dat constant zijn beurs vult, hoe royaal hij ook uitgeeft."
 
-"Inkomen, daar gaat het om," verzuchtte Bansir. "Ik wil een inkomen dat in mijn beurs blijft stromen, of ik nu op de muur zit of naar verre landen reis. Arkad moet weten hoe een man een inkomen voor zichzelf kan verdienen. Denk je dat hij dat duidelijk kan maken aan een trage geest als de mijne?"
+"Inkomen, daar gaat het om," verzuchtte Bansir. "Ik wil een inkomen dat in mijn beurs blijft stromen, of ik nu op de muur zit of naar verre landen reis. Arkad moet weten hoe een man een inkomen voor zichzelf kan vergaren. Denk je dat hij dat duidelijk kan maken aan een trage geest als de mijne?"
 
 "Ik denk dat hij zijn kennis aan zijn zoon heeft aangeleerd, Nomasir," antwoordde Kobbi.
 
-"Kobbi, gij brengt mij op een zeldzame gedachte." Een nieuw licht fonkelde in Bansir's ogen. "Het kost niets om wijze raad te vragen aan een goede vriend en Arkad was dat altijd. Het maakt niet uit of onze beurs zo leeg is als een feestzaal zonder muziekanten. Laat dit ons niet ophouden. We zijn het zat zonder goudstukken te zitten in een wereld van overvloed. We willen mannen met kapitaal worden. Kom, laten we naar Arkad gaan en vragen hoe ook wij aan een inkomen kunnen komen."
+"Kobbi, je brengt mij op een zeldzame gedachte." Een nieuw licht fonkelde in Bansir's ogen. "Het kost niets om wijze raad te vragen aan een goede vriend en Arkad was dat altijd. Het maakt niet uit of onze beurs zo leeg is als een feestzaal zonder muziekanten. Laat dit ons niet ophouden. We zijn het zat zonder goudstukken te zitten in een wereld van overvloed. We willen mannen met kapitaal worden. Kom, laten we naar Arkad gaan en vragen hoe ook wij aan een inkomen kunnen komen."
 
 Gij spreekt met ware inspiratie, Bansir. Gij brengt mij tot een compleet nieuw inzicht.
 
